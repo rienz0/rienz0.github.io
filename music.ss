@@ -1,0 +1,209 @@
+(load "html.ss")
+
+(define p
+  (preset
+    "Rienzo"
+    `(body ()
+      (h1 () "Musics")
+      (ul ()
+        (li () "Western Art Music"
+          (ul ()
+            (li () "Baroque"
+              (ul ()
+                (li () "Johann Cristoph Pachelbel"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
+                (li () "Antonio Vivaldi"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=7V6PKJCdsHw&list=LL&index=1&t")) "Laudate pueri Dominum, RV 600 in C minor"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=46bEen7d7Go&list=LL&index=2&t")) "Gloria, RV 589 in D major"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=9f7t1NoVWT8&list=LL&index=3")) "Magnificat, RV 611 in G minor"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=w5lehbl7v4Q&list=LL&index=56")) "Violin Concerto in E minor, RV 278"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=FmlfTZRANAo&list=LL&index=4")) "Violin Concerto in E minor, RV 279, Op. 4 No. 2, from " (i () "La Stravaganza")))
+                    (li () (a ((href "https://www.youtube.com/watch?v=_TanD09LBWA&list=LL&index=38")) "Violin Concerto in B-flat major, RV 383a, Op. 4, No. 1, from " (i () "La Stravaganza")))
+                    (li () (a ((href "https://www.youtube.com/watch?v=FJUfI0UtlAw&list=LL&index=5")) "Dixit Dominus a 4, RV 807 in D major"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=z8iiw867KGc&list=LL&index=7")) "Violin Concerto, RV 331 in G minor"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=ValHQ4Zn9Sw&list=LL&index=10")) "Concerto in G minor, RV 578a, from L'Estro Armonico"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=15I4kSQ05-U&list=LL&index=37")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
+                (li () "Remo Giazotto"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=ye5JlhAyYhg&list=LL&index=89")) "Adagio in G minor"))))
+                (li () "Jean-Sébastien Bach"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=AWgOK6OUQwA&list=LL&index=28")) "Chorale Prelude “Erbarm dich mein, o Herre Gott”, BWV 721"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=bZFOhkGGr8A&list=RDbZFOhkGGr8A&start_radio=1")) "Violin Concerto in D minor, BWV 1052R"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=Q3-5144TaYg&list=RDQ3-5144TaYg&start_radio=1")) "Violin Concerto No. 1 in A minor, BWV 1041"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=QyZIU--9q88&list=RDQyZIU--9q88&start_radio=1")) "Violin Concerto in E major, BWV 1042"))))))
+            (li () "Classical"
+              (ul ()
+                (li () "Wolfgang Amadeus Mozart"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=k1-TrAvp_xs&list=LL&index=112")) "Lacrimosa"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=AeEwGQjIpe8")) "Sequentia"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=qiMcXzfm9Mg")) "Requiem In D Minor, K 626"))))))
+            (li () "Romantic"
+              (ul ()
+                (li () "Pyotr Ilyich Tchaikovsky"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=QxHkLdQy5f0&list=LL&index=12")) "Waltz of the Flowers"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=M8J8urC_8Jw&list=LL&index=9")) "The Nutcracker Suite, Op. 71a"))
+                    (li () (a ((href "https://www.youtube.com/watch?v=2DmfJu3oNDM&t")) "Piano Concerto No. 1 in B-flat minor, Op. 23"))))
+                (li () "Richard Strauss"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=cKkDMiGUbUw&list=LL&index=11")) "The Blue Danube Waltz"))))
+                (li () "Wagner"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=SRmCEGHt-Qk")) "Tannhäuser Overture"))))
+                (li () "Bedřich Smetana"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=3ZJwlDPWEkg&t")) "Má vlast, JB 1:112: No. 2 \"Vltava\""))))))
+            (li () "Modern"
+              (ul ()
+                (li () "Éric Alfred Leslie Satie"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=wnacdOIoTBQ&list=RDwnacdOIoTBQ&start_radio=1")) "Gymnopédies & Gnossiennes for solo piano"))))))
+            (li () "20th-century"
+              (ul ()
+                (li () "Dmitri Dmitriyevich Shostakovich"
+                  (ul ()
+                    (li () (a ((href "https://www.youtube.com/watch?v=mmCnQDUSO4I&list=LL&index=145")) "Waltz No. 2, Op. 99a"))))))))
+        (li () "Jazz"
+          (ul ()
+            (li () "Louis Armstrong"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=fJkftOrBW1g")) "La vie en rose"))
+                (li () (a ((href "https://www.youtube.com/watch?v=CaCSuzR4DwM")) "What A Wonderful World"))))
+            (li () "Grover Washington Jr."
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=6POZlJAZsok&list=LL&index=158")) "Just the Two of Us (feat. Bill Withers)"))))
+            (li () "Art Blakey"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=fsJ3JjpZyoA&list=LL&index=71")) "Moanin'"))))
+            (li () "Tommy Dorsey"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=rEn--T2hBXg&list=LL&index=67")) "I'll Never Smile Again"))))
+            (li () "Cole Porter"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=dxCjpEc66Dw")) "Anything Goes"))))
+            (li () "Paul Desmond"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=tT9Eh8wNMkw&list=LL&index=72")) "Take Five"))))
+            (li () "Doris Day"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=YbWWQPbeBDk")) "Dream A Little Dream Of Me"))))
+            (li () "Kitty Kallen"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=iP0tHmoc1rs")) "It's Been a Long, Long Time"))))
+            (li () "Frank Sinatra"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=ZEcqHA7dbwM")) "Fly Me To The Moon"))
+                (li () (a ((href "https://www.youtube.com/watch?v=qQzdAsjWGPg")) "My Way"))
+                (li () (a ((href "https://www.youtube.com/watch?v=Dw1ZC6sZjIY")) "Blue Moon"))
+                (li () (a ((href "https://www.youtube.com/watch?v=DX3r-nOSnN0")) "I'm A Fool To Want You"))))
+            (li () "The Ink Spots"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=9g0hszNSLCw")) "I'll Never Smile Again"))
+                (li () (a ((href "https://www.youtube.com/watch?v=vtcq5T8VV8s")) "Address Unknown"))
+                (li () (a ((href "https://www.youtube.com/watch?v=V3sXHsIT6XM")) "We Three (My Echo, My Shadow, And Me)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=oLuJby7ZKEY")) "We'll Meet Again"))
+                (li () (a ((href "https://www.youtube.com/watch?v=fsLPj_BG3fg")) "Maybe"))))
+            (li () "Albert Allick Bowlly"
+              (ul ()
+                 (li () (a ((href "https://www.youtube.com/watch?v=33o4TJy1yQY")) "It's All Forgotten Now"))
+                (li () (a ((href "https://www.youtube.com/watch?v=SIpK7YE-vo0")) "Midnight, The Stars And You"))
+                (li () (a ((href "https://www.youtube.com/watch?v=eskOIYE03e8&list=LL&index=49")) "Isle of Capri"))
+                (li () (a ((href "https://www.youtube.com/watch?v=1rsLTELg904&list=LL&index=50")) "I've Got You Under My Skin"))
+                (li () (a ((href "https://www.youtube.com/watch?v=RFi2yFbtCSU&list=LL&index=69")) "My Woman"))
+                (li () (a ((href "https://www.youtube.com/watch?v=fUEtaI0bFWg&list=LL&index=162")) "If Anything Happened To You"))
+                (li () (a ((href "https://www.youtube.com/watch?v=ye4pTWBcKvc")) "Heartaches"))))))
+        (li () "Popular"
+          (ul ()
+            (li () (a ((href "https://www.youtube.com/watch?v=CikEbEtnBcE")) "Sh-Boom"))
+            (li () (a ((href "https://www.youtube.com/watch?v=DYwQy_9JPtQ")) "Can't Take My Eyes off You"))
+            (li () (a ((href "https://www.youtube.com/watch?v=kvazBqAlx58&list=LL&index=73")) "Put Your Head On My Shoulder"))
+            (li () (a ((href "https://www.youtube.com/watch?v=TmIwm5RElRs&list=LL&index=146")) "I Don't Want to Set the World on Fire"))))
+        (li () "Rap"
+          (ul ()
+            (li () "La Fève"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=kzs9GzCSeGE")) "LA PESTE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=LSrVmi91sGY")) "POLI"))
+                (li () (a ((href "https://www.youtube.com/watch?v=FjYLTaFkakQ")) "SAMESHIT"))
+                (li () (a ((href "https://www.youtube.com/watch?v=f87lXVUBEM0")) "ROILAF INTERLUDE (prod. Surya)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=oGPyjwupAcE")) "TRAHI"))
+                (li () (a ((href "https://www.youtube.com/watch?v=8PFqTfgXGos")) "L'AFFAMÉ"))
+                (li () (a ((href "https://www.youtube.com/watch?v=Duxvaylpn20")) "JEUNE DANS UN TROU"))
+                (li () (a ((href "https://www.youtube.com/watch?v=_yk9vmCwehw")) "CHUI QUN HOMME"))
+                (li () (a ((href "https://www.youtube.com/watch?v=33g5VVBteO0")) "FUCKED UP!"))
+                (li () (a ((href "https://www.youtube.com/watch?v=I2okKFC09iE")) "LAF IL EST COMME ÇA"))
+                (li () (a ((href "https://www.youtube.com/watch?v=5Imuf3thRSk")) "JUGE FALCONE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=PRfcZeF2ELo")) "Le taff"))
+                (li () (a ((href "https://www.youtube.com/watch?v=Ez8PAxmlahQ")) "La rime"))
+                (li () (a ((href "https://www.youtube.com/watch?v=Dby5Ujujsw4")) "La flemme"))
+                (li () (a ((href "https://www.youtube.com/watch?v=oo_GBgnj8d4")) "RIEN DE NEUF"))
+                (li () (a ((href "https://www.youtube.com/watch?v=SL5D5YnaWVw")) "Tellement (ft. Dundy)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=TfiYwjNbEuk")) "Avenue Montaigne"))
+                (li () (a ((href "https://www.youtube.com/watch?v=PbeNBZs4iWQ")) "BIG LOUIS"))
+                (li () (a ((href "https://www.youtube.com/watch?v=04yNDqJ-PRs")) "BACK IN THE DAYS (GLOBE)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=1XjdGw7HKOA")) "HYPERACTIF"))
+                (li () (a ((href "https://www.youtube.com/watch?v=36hQTE_R_Ig")) "ROSE MAGNOLIA"))
+                (li () (a ((href "https://www.youtube.com/watch?v=kMEWd4g9ELY")) "LYELE INTERLUDE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=mJdAOqy9sQ8")) "ZÉRO DÉBAT"))
+                (li () (a ((href "https://www.youtube.com/watch?v=CbB4tGdO62Y")) "HOMESTUDIO"))
+                (li () (a ((href "https://www.youtube.com/watch?v=QxPdhDIB74Y")) "LYELE OUTRO"))
+                (li () (a ((href "https://www.youtube.com/watch?v=odKHbMeZVpg")) "VOITURE SPORTIVE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=qJndZ2AK9EM")) "OUTRO"))
+                (li () (a ((href "https://www.youtube.com/watch?v=ya_K5dMp73A")) "LAF#1"))
+                (li () (a ((href "https://www.youtube.com/watch?v=J0X_6dFzHkE")) "LAF#2"))
+                (li () (a ((href "https://www.youtube.com/watch?v=6sq-L0tG7LA")) "LADY D"))
+                (li () (a ((href "https://www.youtube.com/watch?v=U4RxakExSEc")) "PLUG"))
+                (li () (a ((href "https://www.youtube.com/watch?v=sZ_9eFKNWiM")) "MACHIAVELLI"))
+                (li () (a ((href "https://www.youtube.com/watch?v=2SsT7N6v580")) "LAF"))
+                (li () (a ((href "https://www.youtube.com/watch?v=QyfGo2-M0rM")) "Up Next !"))
+                (li () (a ((href "https://www.youtube.com/watch?v=ijB0wA_P7QY")) "MA COPINE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=JDHNuBpuP2o")) "KOLAF"))
+                (li () (a ((href "https://www.youtube.com/watch?v=6eRVc1rZWwY")) "Plaque d'égout"))
+                (li () (a ((href "https://www.youtube.com/watch?v=FTQ2l7UmL-Y")) "Montreal (Interlude)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=wZJza3R9gkE")) "PIÈGE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=bg-dGNwQpn0")) "HENRI SALVADOR"))
+                (li () (a ((href "https://www.youtube.com/watch?v=4w-jUXa8elw")) "ACHILLE"))
+                (li () (a ((href "https://www.youtube.com/watch?v=a8fQ9jXCQfo")) " Schwartz (prod. Hermes)"))))
+            (li () "Dundy"
+              (ul ()
+                (li () (a ((href "https://on.soundcloud.com/n69G1UKF6QCVBJHTB7")) "Cadillac Ft. Orfev"))))
+            (li () "Rowjay Cob"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=qXSkUl5rN_8")) "Kung Fu Margiela 2"))))
+            (li () "Freeze Corleone"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=mLH6chE9miQ")) "Voldemort"))
+                (li () (a ((href "https://www.youtube.com/watch?v=E7xFtjqNRZw")) "Rap catéchisme"))
+                (li () (a ((href "https://www.youtube.com/watch?v=ALk_MPJkoMM")) "Jeremy Lin"))
+                (li () (a ((href "https://www.youtube.com/watch?v=pVCTO2_kHKM")) "Bill Clinton"))
+                (li () (a ((href "https://www.youtube.com/watch?v=HXqzsI4Pz40")) "L'homme méthode"))
+                (li () (a ((href "https://www.youtube.com/watch?v=aOOJVSew6Kk")) "Tse Chi Lop"))
+                (li () (a ((href "https://www.youtube.com/watch?v=a05sE-59zC0")) "Ancelotti"))
+                (li () (a ((href "https://www.youtube.com/watch?v=5TO_zqr1_OQ")) "Shavkat"))
+                (li () (a ((href "https://www.youtube.com/watch?v=BGGSkEgxF4Q")) "Intro"))
+                (li () (a ((href "https://www.youtube.com/watch?v=hDEBhI5DFBk")) "Q.B"))
+                (li () (a ((href "https://www.youtube.com/watch?v=6YIGtG96Qe8")) "Mode Avion"))
+                (li () (a ((href "https://www.youtube.com/watch?v=ZwrsqXKwzYE")) "3 Planètes"))
+                (li () (a ((href "https://www.youtube.com/watch?v=tK-rbk09m1I")) "8P4C"))))
+            (li () "Alpha Wann"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=ea3NROGPWgc")) "Turban"))))
+            (li () "Osirus Jack"
+              (ul ()
+                (li () (a ((href "https://www.youtube.com/watch?v=gBjIVPDgD7k")) "Vril 67"))
+                (li () (a ((href "https://www.youtube.com/watch?v=d76n72ZH7V0")) "Mazout"))
+                (li () (a ((href "https://www.youtube.com/watch?v=HxpovrKW36Y")) "Nowitzki"))
+                (li () (a ((href "https://www.youtube.com/watch?v=GHofdh6wYdE")) "T.E.N"))
+                (li () (a ((href "https://www.youtube.com/watch?v=J98308DAWHE")) "Killuavie"))
+                (li () (a ((href "https://www.youtube.com/watch?v=WMbJ9Cxdr9I")) "Ron Van Clief"))
+                (li () (a ((href "https://www.youtube.com/watch?v=XEl2KdctZQA")) "Lampadaire, Pt. 2"))
+                (li () (a ((href "https://www.youtube.com/watch?v=AsysOWZG6ps")) "Kyrie Irving"))
+                (li () (a ((href "https://www.youtube.com/watch?v=vO8vmA7W-zY")) "Secte Part. 3"))
+                (li () (a ((href "https://www.youtube.com/watch?v=dTSsqORAyx4")) "Bolo Yeung (feat. Alpha Wann)"))
+                (li () (a ((href "https://www.youtube.com/watch?v=GdfeJ43jD2s")) "OSS"))))))))))
+
+(write-html "music.html" p)

@@ -1,0 +1,32 @@
+(define (render-attrs attrs)
+  (apply string-append (map (lambda (pair)
+                               (string-append " " (symbol->string (car pair)) "=\"" (cadr pair) "\""))
+                            attrs)))
+
+(define (convert node)
+  (cond ((string? node) node)
+        ((null? node) "")
+        ((list? node)
+         (let ((tag (car node)) (attrs (cadr node)) (children (cddr node)))
+           (string-append "<" (symbol->string tag) (render-attrs attrs) ">"
+                         (apply string-append (map convert children))
+                         "</" (symbol->string tag) ">")))
+        (else "")))
+
+(define (render-html node)
+  (string-append "<!DOCTYPE html>" (convert node)))
+
+(define (write-html file node)
+  (let ((port (open-file file "w")))
+    (display (render-html node) port)
+    (newline port)
+    (close port)))
+  
+(define (preset title body)
+  `(html ()
+    (head ()
+      (meta ((charset "UTF-8")))
+      (meta ((name "viewport") (content "width=device-width, initial-scale=1, maximum-scale=1")))
+      (link ((rel "stylesheet") (href "style.css")))
+      (title () ,title))
+      ,body))
