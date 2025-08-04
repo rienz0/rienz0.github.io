@@ -99,7 +99,7 @@
                 (li () "Les mots")))
             (li () "Plato"
               (ul ()
-                (li () "La République *")
+                (li () "La République")
                 (li () "Phaedrus")
                 (li () "Cratylus")))
             (li () "Spinoza"

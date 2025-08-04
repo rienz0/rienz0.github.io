@@ -16,6 +16,8 @@
                 (li () "Antonio Vivaldi"
                   (ul ()
                     (li () (a ((href "https://youtu.be/7V6PKJCdsHw?si=wXOmku1J67eJycYf")) "Laudate pueri Dominum, RV 600 in C minor"))
+                    (li () (a ((href "https://youtu.be/Uw0lsrOTMaE?si=ijwXJs88nl9kimhW")) "Concerto in Due Cori with Scordatura Violin in B-flat Major, RV 583"))
+                    (li () (a ((href "https://youtu.be/emEv1JEuKjQ?si=72Ya6isXoESkS6a9")) "Concerto in C Major, RV 557"))
                     (li () (a ((href "https://youtu.be/46bEen7d7Go?si=ltZRLNrq6D0aPXzl")) "Gloria, RV 589 in D major"))
                     (li () (a ((href "https://youtu.be/9f7t1NoVWT8?si=2rjAU60w5g5DyqIP")) "Magnificat, RV 611 in G minor"))
                     (li () (a ((href "https://youtu.be/w5lehbl7v4Q?si=cZke45Okd8ezNI7M")) "Violin Concerto in E minor, RV 278"))
