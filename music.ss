@@ -15,85 +15,85 @@
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
                 (li () "Antonio Vivaldi"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=7V6PKJCdsHw&list=LL&index=1&t")) "Laudate pueri Dominum, RV 600 in C minor"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=46bEen7d7Go&list=LL&index=2&t")) "Gloria, RV 589 in D major"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=9f7t1NoVWT8&list=LL&index=3")) "Magnificat, RV 611 in G minor"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=w5lehbl7v4Q&list=LL&index=56")) "Violin Concerto in E minor, RV 278"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=FmlfTZRANAo&list=LL&index=4")) "Violin Concerto in E minor, RV 279, Op. 4 No. 2, from " (i () "La Stravaganza")))
-                    (li () (a ((href "https://www.youtube.com/watch?v=_TanD09LBWA&list=LL&index=38")) "Violin Concerto in B-flat major, RV 383a, Op. 4, No. 1, from " (i () "La Stravaganza")))
-                    (li () (a ((href "https://www.youtube.com/watch?v=FJUfI0UtlAw&list=LL&index=5")) "Dixit Dominus a 4, RV 807 in D major"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=z8iiw867KGc&list=LL&index=7")) "Violin Concerto, RV 331 in G minor"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=ValHQ4Zn9Sw&list=LL&index=10")) "Concerto in G minor, RV 578a, from L'Estro Armonico"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=15I4kSQ05-U&list=LL&index=37")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
+                    (li () (a ((href "https://youtu.be/7V6PKJCdsHw?si=wXOmku1J67eJycYf")) "Laudate pueri Dominum, RV 600 in C minor"))
+                    (li () (a ((href "https://youtu.be/46bEen7d7Go?si=ltZRLNrq6D0aPXzl")) "Gloria, RV 589 in D major"))
+                    (li () (a ((href "https://youtu.be/9f7t1NoVWT8?si=2rjAU60w5g5DyqIP")) "Magnificat, RV 611 in G minor"))
+                    (li () (a ((href "https://youtu.be/w5lehbl7v4Q?si=cZke45Okd8ezNI7M")) "Violin Concerto in E minor, RV 278"))
+                    (li () (a ((href "https://youtu.be/FmlfTZRANAo?si=X4DhV_iV_VwHIPom")) "Violin Concerto in E minor, RV 279, Op. 4 No. 2, from " (i () "La Stravaganza")))
+                    (li () (a ((href "https://youtu.be/_TanD09LBWA?si=TZ-uG5GiekKqLjui")) "Violin Concerto in B-flat major, RV 383a, Op. 4, No. 1, from " (i () "La Stravaganza")))
+                    (li () (a ((href "https://youtu.be/FJUfI0UtlAw?si=0NDQLvPrnmv0umD1")) "Dixit Dominus a 4, RV 807 in D major"))
+                    (li () (a ((href "https://youtu.be/z8iiw867KGc?si=5SKshacapbK9IOx7")) "Violin Concerto, RV 331 in G minor"))
+                    (li () (a ((href "https://youtu.be/ValHQ4Zn9Sw?si=bpw_YzInP89MScYE")) "Concerto in G minor, RV 578a, from L'Estro Armonico"))
+                    (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
                 (li () "Remo Giazotto"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=ye5JlhAyYhg&list=LL&index=89")) "Adagio in G minor"))))
+                    (li () (a ((href "https://youtu.be/ye5JlhAyYhg?si=RNVmAJ7rSCgPPb0v")) "Adagio in G minor"))))
                 (li () "Jean-Sébastien Bach"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=AWgOK6OUQwA&list=LL&index=28")) "Chorale Prelude “Erbarm dich mein, o Herre Gott”, BWV 721"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=bZFOhkGGr8A&list=RDbZFOhkGGr8A&start_radio=1")) "Violin Concerto in D minor, BWV 1052R"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=Q3-5144TaYg&list=RDQ3-5144TaYg&start_radio=1")) "Violin Concerto No. 1 in A minor, BWV 1041"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=QyZIU--9q88&list=RDQyZIU--9q88&start_radio=1")) "Violin Concerto in E major, BWV 1042"))))))
+                    (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Chorale Prelude “Erbarm dich mein, o Herre Gott”, BWV 721"))
+                    (li () (a ((href "https://youtu.be/bZFOhkGGr8A?si=qyOrgN-BHE6MaSkI")) "Violin Concerto in D minor, BWV 1052R"))
+                    (li () (a ((href "https://youtu.be/Q3-5144TaYg?si=R44hJIfBcAnBkZee")) "Violin Concerto No. 1 in A minor, BWV 1041"))
+                    (li () (a ((href "https://youtu.be/QyZIU--9q88?si=ci_cg6FzBRXegjt6")) "Violin Concerto in E major, BWV 1042"))))))
             (li () "Classical"
               (ul ()
                 (li () "Wolfgang Amadeus Mozart"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=k1-TrAvp_xs&list=LL&index=112")) "Lacrimosa"))
+                    (li () (a ((href "https://youtu.be/k1-TrAvp_xs?si=qu5NuNTMzz09Q9pB")) "Lacrimosa"))
                     (li () (a ((href "https://www.youtube.com/watch?v=AeEwGQjIpe8")) "Sequentia"))
                     (li () (a ((href "https://www.youtube.com/watch?v=qiMcXzfm9Mg")) "Requiem In D Minor, K 626"))))))
             (li () "Romantic"
               (ul ()
                 (li () "Pyotr Ilyich Tchaikovsky"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=QxHkLdQy5f0&list=LL&index=12")) "Waltz of the Flowers"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=M8J8urC_8Jw&list=LL&index=9")) "The Nutcracker Suite, Op. 71a"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=2DmfJu3oNDM&t")) "Piano Concerto No. 1 in B-flat minor, Op. 23"))))
+                    (li () (a ((href "https://youtu.be/QxHkLdQy5f0?si=ugAbNwp2Jqh5Isgi")) "Waltz of the Flowers"))
+                    (li () (a ((href "https://youtu.be/M8J8urC_8Jw?si=OaeAHtNuMbBkSu1Z")) "The Nutcracker Suite, Op. 71a"))
+                    (li () (a ((href "https://youtu.be/2DmfJu3oNDM?si=9oI3uCqmxJWaWc-Q")) "Piano Concerto No. 1 in B-flat minor, Op. 23"))))
                 (li () "Richard Strauss"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=cKkDMiGUbUw&list=LL&index=11")) "The Blue Danube Waltz"))))
+                    (li () (a ((href "https://youtu.be/cKkDMiGUbUw?si=KUUoOjVztyWdZMKF")) "The Blue Danube Waltz"))))
                 (li () "Wagner"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=SRmCEGHt-Qk")) "Tannhäuser Overture"))))
+                    (li () (a ((href "https://youtu.be/SRmCEGHt-Qk?si=RRiF3ON9sAkmi7lL")) "Tannhäuser Overture"))))
                 (li () "Bedřich Smetana"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=3ZJwlDPWEkg&t")) "Má vlast, JB 1:112: No. 2 \"Vltava\""))))))
+                    (li () (a ((href "https://youtu.be/3ZJwlDPWEkg?si=b7wgV9rYwQGIwrDy")) "Má vlast, JB 1:112: No. 2 \"Vltava\""))))))
             (li () "Modern"
               (ul ()
                 (li () "Éric Alfred Leslie Satie"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=wnacdOIoTBQ&list=RDwnacdOIoTBQ&start_radio=1")) "Gymnopédies & Gnossiennes for solo piano"))))))
+                    (li () (a ((href "https://youtu.be/wnacdOIoTBQ?si=BZT5HlK6dES-PbFV")) "Gymnopédies & Gnossiennes for solo piano"))))))
             (li () "20th-century"
               (ul ()
                 (li () "Dmitri Dmitriyevich Shostakovich"
                   (ul ()
-                    (li () (a ((href "https://www.youtube.com/watch?v=mmCnQDUSO4I&list=LL&index=145")) "Waltz No. 2, Op. 99a"))))))))
+                    (li () (a ((href "https://youtu.be/mmCnQDUSO4I?si=Ittw0xMJNAWpZZB6")) "Waltz No. 2, Op. 99a"))))))))
         (li () "Jazz"
           (ul ()
             (li () "Louis Armstrong"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=fJkftOrBW1g")) "La vie en rose"))
-                (li () (a ((href "https://www.youtube.com/watch?v=CaCSuzR4DwM")) "What A Wonderful World"))))
+                (li () (a ((href "https://youtu.be/fJkftOrBW1g?si=0Hkc5qMgEAYRVfCU")) "La vie en rose"))
+                (li () (a ((href "https://youtu.be/CaCSuzR4DwM?si=cDoaLNUXoL-bXVir")) "What A Wonderful World"))))
             (li () "Grover Washington Jr."
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=6POZlJAZsok&list=LL&index=158")) "Just the Two of Us (feat. Bill Withers)"))))
+                (li () (a ((href "https://youtu.be/6POZlJAZsok?si=5z4lzkCL4_0qFINi")) "Just the Two of Us (feat. Bill Withers)"))))
             (li () "Art Blakey"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=fsJ3JjpZyoA&list=LL&index=71")) "Moanin'"))))
+                (li () (a ((href "https://youtu.be/fsJ3JjpZyoA?si=FpigVdFxkjMFy0s_")) "Moanin'"))))
             (li () "Tommy Dorsey"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=rEn--T2hBXg&list=LL&index=67")) "I'll Never Smile Again"))))
+                (li () (a ((href "https://youtu.be/rEn--T2hBXg?si=xuvm767Misigf576")) "I'll Never Smile Again"))))
             (li () "Cole Porter"
               (ul ()
                 (li () (a ((href "https://www.youtube.com/watch?v=dxCjpEc66Dw")) "Anything Goes"))))
             (li () "Paul Desmond"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=tT9Eh8wNMkw&list=LL&index=72")) "Take Five"))))
+                (li () (a ((href "https://youtu.be/dxCjpEc66Dw?si=exvUaD7w1Ghr0ZlN")) "Take Five"))))
             (li () "Doris Day"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=YbWWQPbeBDk")) "Dream A Little Dream Of Me"))))
+                (li () (a ((href "https://youtu.be/YbWWQPbeBDk?si=aEKxTUSn8eUBcKib")) "Dream A Little Dream Of Me"))))
             (li () "Kitty Kallen"
               (ul ()
-                (li () (a ((href "https://www.youtube.com/watch?v=iP0tHmoc1rs")) "It's Been a Long, Long Time"))))
+                (li () (a ((href "https://youtu.be/iP0tHmoc1rs?si=W_LkKJmSgYpo_40S")) "It's Been a Long, Long Time"))))
             (li () "Frank Sinatra"
               (ul ()
                 (li () (a ((href "https://www.youtube.com/watch?v=ZEcqHA7dbwM")) "Fly Me To The Moon"))
@@ -111,17 +111,17 @@
               (ul ()
                  (li () (a ((href "https://www.youtube.com/watch?v=33o4TJy1yQY")) "It's All Forgotten Now"))
                 (li () (a ((href "https://www.youtube.com/watch?v=SIpK7YE-vo0")) "Midnight, The Stars And You"))
-                (li () (a ((href "https://www.youtube.com/watch?v=eskOIYE03e8&list=LL&index=49")) "Isle of Capri"))
-                (li () (a ((href "https://www.youtube.com/watch?v=1rsLTELg904&list=LL&index=50")) "I've Got You Under My Skin"))
-                (li () (a ((href "https://www.youtube.com/watch?v=RFi2yFbtCSU&list=LL&index=69")) "My Woman"))
-                (li () (a ((href "https://www.youtube.com/watch?v=fUEtaI0bFWg&list=LL&index=162")) "If Anything Happened To You"))
-                (li () (a ((href "https://www.youtube.com/watch?v=ye4pTWBcKvc")) "Heartaches"))))))
+                (li () (a ((href "https://youtu.be/eskOIYE03e8?si=Q3WuZjet-FcfYsKI")) "Isle of Capri"))
+                (li () (a ((href "https://youtu.be/1rsLTELg904?si=HK2d9Hc_EzdV9Xw7")) "I've Got You Under My Skin"))
+                (li () (a ((href "https://youtu.be/RFi2yFbtCSU?si=JmFm9OjsLu2WxtWZ")) "My Woman"))
+                (li () (a ((href "https://youtu.be/fUEtaI0bFWg?si=TndmbG85QONFAwqi")) "If Anything Happened To You"))
+                (li () (a ((href "https://youtu.be/ye4pTWBcKvc?si=hSqd_80sGIKamGZd")) "Heartaches"))))))
         (li () "Popular"
           (ul ()
             (li () (a ((href "https://www.youtube.com/watch?v=CikEbEtnBcE")) "Sh-Boom"))
             (li () (a ((href "https://www.youtube.com/watch?v=DYwQy_9JPtQ")) "Can't Take My Eyes off You"))
-            (li () (a ((href "https://www.youtube.com/watch?v=kvazBqAlx58&list=LL&index=73")) "Put Your Head On My Shoulder"))
-            (li () (a ((href "https://www.youtube.com/watch?v=TmIwm5RElRs&list=LL&index=146")) "I Don't Want to Set the World on Fire"))))
+            (li () (a ((href "https://youtu.be/kvazBqAlx58?si=HV02hBGHO9rz7Msr")) "Put Your Head On My Shoulder"))
+            (li () (a ((href "https://youtu.be/TmIwm5RElRs?si=Nq5bwPgyrcBW3sES")) "I Don't Want to Set the World on Fire"))))
         (li () "Rap"
           (ul ()
             (li () "La Fève"
