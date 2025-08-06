@@ -15,6 +15,9 @@
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
                 (li () "Antonio Vivaldi"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/b1AFyTUpkao?si=di9CITRbptcvtBBP")) "Concerto for Violin in D Major, RV 212a"))
+                    (li () (a ((href "https://youtu.be/igxDZfYYU2A?si=1pPbq4U1kJHiRXVZ")) "Concerto for Violin in E Minor, RV 275"))
+                    (li () (a ((href "https://youtu.be/_kHsR1yd6F8?si=3sQzY2zoswrsOXy_")) "Concerto ‘Per la Solennità di San Lorenzo’, RV 562 in D Major"))
                     (li () (a ((href "https://youtu.be/7V6PKJCdsHw?si=wXOmku1J67eJycYf")) "Laudate pueri Dominum, RV 600 in C minor"))
                     (li () (a ((href "https://youtu.be/Uw0lsrOTMaE?si=ijwXJs88nl9kimhW")) "Concerto in Due Cori with Scordatura Violin in B-flat Major, RV 583"))
                     (li () (a ((href "https://youtu.be/emEv1JEuKjQ?si=72Ya6isXoESkS6a9")) "Concerto in C Major, RV 557"))

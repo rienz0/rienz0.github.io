@@ -53,6 +53,9 @@
             (li () "Gustave Flaubert"
               (ul ()
                 (li () "Madame Bovary")))
+            (li () "Rabelais"
+              (ul ()
+                (li () "Pantagruel")))
             (li () "Homer"
               (ul ()
                 (li () "L'Iliade")
@@ -60,6 +63,8 @@
             (li () "Dostoevsky"
               (ul ()
                 (li () "Crime and Punishment ~")
+                (li () "Le Joueur")
+                (li () "L'Idiot")
                 (li () "Niétotchka Nezvanova")))
             (li () "Stendhal"
               (ul ()
@@ -115,6 +120,7 @@
                 (li () "Critique de la raison pure")))
             (li () "Nietzsche"
               (ul ()
+                (li () "Vérité et mensonge au sens extra-moral *")
                 (li () "L'Antéchrist *")))
             (li () "Wittgenstein"
               (ul ()
@@ -152,6 +158,9 @@
             (li () "Neal Stephenson"
               (ul ()
                 (li () "Snow Crash *")))
+            (li () "Douglas Adams"
+              (ul ()
+                (li () "The Hitch-Hicker's Guide to The Galaxy *")))
             (li () "Bernard Werber"
               (ul ()
                 (li () "L'Encyclopédie du savoir relatif et absolu")))
@@ -174,6 +183,8 @@
                 (li () "Les Cahiers de Douai *")))
             (li () "Baudelaire"
               (ul ()
+                (li () "Les Paradis Artificiels")
+                (li () "Le Spleen de Paris *")
                 (li () "Les Fleurs du mal ~")))))
         (li () "History"
           (ul ()
