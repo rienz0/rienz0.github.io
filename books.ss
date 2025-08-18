@@ -188,6 +188,9 @@
                 (li () "Les Fleurs du mal ~")))))
         (li () "History"
           (ul ()
+            (li () "Karl Marx"
+              (ul ()
+                (li () "Le 18 Brumaire de Louis Bonaparte")))
             (li () "Emmanuel de Las Cases"
               (ul ()
                 (li () "Le Mémorial de Sainte-Hélène")))

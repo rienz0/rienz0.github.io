@@ -49,6 +49,7 @@
       (h2 () "Personal Interests")
       (ul ()
         (li () (a ((href "./music.html")) "What I am listening to"))
+        (li () (a ((href "./films.html")) "Films I've watched and intend to watch"))
         (li () (a ((href "./books.html")) "What I've read and intend to read")))
       (h2 () "Papers")
       (ul ()
