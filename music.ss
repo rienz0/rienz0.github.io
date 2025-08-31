@@ -15,29 +15,60 @@
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
                 (li () "Antonio Vivaldi"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/ZPdk5GaIDjo?si=mZnSXy9GLi4iGT_P")) "Winter"))
+                    (li () (a ((href "https://youtu.be/g65oWFMSoK0?si=MtrarOjsT9fVVegM")) "Summer"))
                     (li () (a ((href "https://youtu.be/b1AFyTUpkao?si=di9CITRbptcvtBBP")) "Concerto for Violin in D Major, RV 212a"))
+                    (li () (a ((href "https://youtu.be/fg6Sad6l_BU?si=GTacR8IzOmJ-Sffm")) "Violin Concerto in D major, RV 220 \"L'Amsterdam\""))
+                    (li () (a ((href "https://youtu.be/XYF_Cq7cHoY?si=ifgHJTlkOX7u7duq")) "Beatus vir in C major, RV 597 in due cori"))
+                    (li () (a ((href "https://youtu.be/GI6U_FdnpjE?si=CHlP01omUNSgNy4C")) "Violin Concerto RV 177 in C major"))
                     (li () (a ((href "https://youtu.be/igxDZfYYU2A?si=1pPbq4U1kJHiRXVZ")) "Concerto for Violin in E Minor, RV 275"))
-                    (li () (a ((href "https://youtu.be/_kHsR1yd6F8?si=3sQzY2zoswrsOXy_")) "Concerto ‘Per la Solennità di San Lorenzo’, RV 562 in D Major"))
+                    (li () (a ((href "https://youtu.be/mOkccLFnj58?si=gwLEHzPgx4BGbxQi")) "Concerto for Two Cellos RV 531 in G minor, con 2 Violoncelli"))
+                    (li () (a ((href "https://youtu.be/_kHsR1yd6F8?si=3sQzY2zoswrsOXy_")) "Concerto 'Per la Solennità di San Lorenzo', RV 562 in D Major"))
                     (li () (a ((href "https://youtu.be/7V6PKJCdsHw?si=wXOmku1J67eJycYf")) "Laudate pueri Dominum, RV 600 in C minor"))
                     (li () (a ((href "https://youtu.be/Uw0lsrOTMaE?si=ijwXJs88nl9kimhW")) "Concerto in Due Cori with Scordatura Violin in B-flat Major, RV 583"))
                     (li () (a ((href "https://youtu.be/emEv1JEuKjQ?si=72Ya6isXoESkS6a9")) "Concerto in C Major, RV 557"))
                     (li () (a ((href "https://youtu.be/46bEen7d7Go?si=ltZRLNrq6D0aPXzl")) "Gloria, RV 589 in D major"))
                     (li () (a ((href "https://youtu.be/9f7t1NoVWT8?si=2rjAU60w5g5DyqIP")) "Magnificat, RV 611 in G minor"))
+                    (li () (a ((href "https://youtu.be/9f7t1NoVWT8?si=2rjAU60w5g5DyqIP")) "Magnificat in G minor, RV 610a (con Istromenti)"))
                     (li () (a ((href "https://youtu.be/w5lehbl7v4Q?si=cZke45Okd8ezNI7M")) "Violin Concerto in E minor, RV 278"))
                     (li () (a ((href "https://youtu.be/FmlfTZRANAo?si=X4DhV_iV_VwHIPom")) "Violin Concerto in E minor, RV 279, Op. 4 No. 2, from " (i () "La Stravaganza")))
                     (li () (a ((href "https://youtu.be/_TanD09LBWA?si=TZ-uG5GiekKqLjui")) "Violin Concerto in B-flat major, RV 383a, Op. 4, No. 1, from " (i () "La Stravaganza")))
                     (li () (a ((href "https://youtu.be/FJUfI0UtlAw?si=0NDQLvPrnmv0umD1")) "Dixit Dominus a 4, RV 807 in D major"))
+                    (li () (a ((href "https://youtu.be/sK8vnbY6fOY?si=QdSoR1PPv361lsBU")) "Stabat Mater in F minor, RV 621"))
                     (li () (a ((href "https://youtu.be/z8iiw867KGc?si=5SKshacapbK9IOx7")) "Violin Concerto, RV 331 in G minor"))
                     (li () (a ((href "https://youtu.be/ValHQ4Zn9Sw?si=bpw_YzInP89MScYE")) "Concerto in G minor, RV 578a, from L'Estro Armonico"))
                     (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
                 (li () "Remo Giazotto"
                   (ul ()
                     (li () (a ((href "https://youtu.be/ye5JlhAyYhg?si=RNVmAJ7rSCgPPb0v")) "Adagio in G minor"))))
+                (li () "Léon Boëllmann"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/99XcIxbNyJI?si=ihOT1p_8mvb-Fi2f")) "Prière à Notre-Dame, Op. 25"))))
+                (li () "Feike Asma"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/Pq246S32Am0?si=3kxlw563U-QLQ4bm")) "Wie maar de goede God laat zorgen"))))
+                (li () "Klaas Jan Mulder"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/HJWpcsQiCH0?si=_9pFMZy0pf8xyw8H")) "Fantasie-Toccata on Psalm 68:10 \"Geloofd zij God met diepst ontzag\""))))
+                (li () "Samuel Barber"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/5zHOYNTLSx4?si=xFVnRzlj9CX9LQF4")) "Adagio for Strings, Op. 11"))))
+                (li () "Mato Lešćan"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/FqlKX5mVBb4?si=PsJqAIfl0K9y566z")) "Intrada and Chorale \"Pjevaj hvale, Magdaleno\""))))
                 (li () "Jean-Sébastien Bach"
                   (ul ()
-                    (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Chorale Prelude “Erbarm dich mein, o Herre Gott”, BWV 721"))
+                    (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Passacaglia BWV 582"))
+                    (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Chorale Prelude \"Erbarm dich mein, o Herre Gott\", BWV 721"))
+                    (li () (a ((href "https://youtu.be/Ie52xH8V2L4?si=SFKiEaV_1UvJEene")) "Passacaglia and Fugue in C minor BWV 582"))
                     (li () (a ((href "https://youtu.be/bZFOhkGGr8A?si=qyOrgN-BHE6MaSkI")) "Violin Concerto in D minor, BWV 1052R"))
                     (li () (a ((href "https://youtu.be/Q3-5144TaYg?si=R44hJIfBcAnBkZee")) "Violin Concerto No. 1 in A minor, BWV 1041"))
+                    (li () (a ((href "https://youtu.be/0YhYfgmRNoA?si=SbYQrZpF-VD1loCR")) "Widor - Toccata from Symphony No. 5 in F minor, Op. 42"))
+                    (li () (a ((href "https://youtu.be/jtj300j129k?si=0msjH-iWShRt3Ai0")) "Toccata in F major from Organ Symphony No. 5"))
+
+                    (li () (a ((href "https://youtu.be/A5aAMIQmoDE?si=8Hd8mgdB9p5VqHxK")) "Toccata in G minor"))
+                    (li () (a ((href "https://youtu.be/erXG9vnN-GI?si=zBeFO0qWNobtwwJC")) "Toccata and Fugue in D minor, BWV 565"))
+                    (li () (a ((href "https://youtu.be/0WKrO4w3QuQ?si=3PY6DSy-JEmVfVNT")) "Orchestral Suite No. 3 in D major BWV 1068 II. Air"))
                     (li () (a ((href "https://youtu.be/QyZIU--9q88?si=ci_cg6FzBRXegjt6")) "Violin Concerto in E major, BWV 1042"))))))
             (li () "Classical"
               (ul ()
@@ -59,6 +90,9 @@
                 (li () "Wagner"
                   (ul ()
                     (li () (a ((href "https://youtu.be/SRmCEGHt-Qk?si=RRiF3ON9sAkmi7lL")) "Tannhäuser Overture"))))
+                (li () "Antonín Dvořák"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/J5megnjqmrU?si=iYW8J6licx6-mPg-")) "Serenade for String Orchestra in E major, Op. 22 - Tempo di Valse"))))
                 (li () "Bedřich Smetana"
                   (ul ()
                     (li () (a ((href "https://youtu.be/3ZJwlDPWEkg?si=b7wgV9rYwQGIwrDy")) "Má vlast, JB 1:112: No. 2 \"Vltava\""))))))

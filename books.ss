@@ -107,6 +107,9 @@
                 (li () "La République")
                 (li () "Phaedrus")
                 (li () "Cratylus")))
+            (li () "Thomas Hobbes"
+              (ul ()
+                (li () "Léviathan ~")))
             (li () "Spinoza"
               (ul ()
                 (li () "L'Éthique")
@@ -175,6 +178,10 @@
             (li () "Lucrèce"
               (ul ()
                 (li () "De Rerum Natura")))
+            (li () "Homer"
+              (ul ()
+                (li () "Iliad ~")
+                (li () "Odyssey")))
             (li () "Ronsard"
               (ul ()
                 (li () "Les amours ~")))
