@@ -16,6 +16,7 @@
                 (li () "Antonio Vivaldi"
                   (ul ()
                     (li () (a ((href "https://youtu.be/ZPdk5GaIDjo?si=mZnSXy9GLi4iGT_P")) "Winter"))
+                    (li () (a ((href "https://youtu.be/205VbtMOODA?si=NIZ7NJVODa1yiHVb")) "Winter (by Xaver Varnus)"))
                     (li () (a ((href "https://youtu.be/g65oWFMSoK0?si=MtrarOjsT9fVVegM")) "Summer"))
                     (li () (a ((href "https://youtu.be/b1AFyTUpkao?si=di9CITRbptcvtBBP")) "Concerto for Violin in D Major, RV 212a"))
                     (li () (a ((href "https://youtu.be/fg6Sad6l_BU?si=GTacR8IzOmJ-Sffm")) "Violin Concerto in D major, RV 220 \"L'Amsterdam\""))
@@ -38,12 +39,31 @@
                     (li () (a ((href "https://youtu.be/z8iiw867KGc?si=5SKshacapbK9IOx7")) "Violin Concerto, RV 331 in G minor"))
                     (li () (a ((href "https://youtu.be/ValHQ4Zn9Sw?si=bpw_YzInP89MScYE")) "Concerto in G minor, RV 578a, from L'Estro Armonico"))
                     (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
+                (li () "Beethoven"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/VHwoypAY52k?si=aY7gUDbaIbV4gavw")) "Sonate au Clair de Lune"))))
+                (li () "Nicolai Medtner"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/QCDUfNFGC6E?si=8aB1QWZJkMet54lW")) "Piano Sonata in A Minor, Op. 38 No. 1 "Sonata-Reminiscenza" (by Sviatoslav Richter)"))))
+                (li () "Georg Friedrich Händel"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/sE8Y9rZ3D9g?si=qj51u6Ti5xh2G95z")) "Saravande in D minor, HWV 437"))
+                    (li () (a ((href "https://youtu.be/hMN_lMt5U48?si=Nsu-G-nIvXmjvYAt")) "Passacaglia - Suite No. 7 en sol mineur, HWV 432"))))
                 (li () "Remo Giazotto"
                   (ul ()
                     (li () (a ((href "https://youtu.be/ye5JlhAyYhg?si=RNVmAJ7rSCgPPb0v")) "Adagio in G minor"))))
                 (li () "Léon Boëllmann"
                   (ul ()
                     (li () (a ((href "https://youtu.be/99XcIxbNyJI?si=ihOT1p_8mvb-Fi2f")) "Prière à Notre-Dame, Op. 25"))))
+                (li () "Franz Schubert"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/BzMo0qCklGg?si=DI8t4_MSFlxxDnIF")) "Ave Maria"))))
+                (li () "Franz Liszt"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/FZ651tNXp0Y?si=2y3SyeEbPjdHlVAH")) "No. 3 (Dream of Love) from " (i () "Liebesträume")))))
+                (li () "Xaver Varnus"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/wfVFMEo_K9I?si=YrJbjTo7mCLrxcj2")) "THE SHOW MUST GO ON"))))
                 (li () "Feike Asma"
                   (ul ()
                     (li () (a ((href "https://youtu.be/Pq246S32Am0?si=3kxlw563U-QLQ4bm")) "Wie maar de goede God laat zorgen"))))
@@ -56,9 +76,15 @@
                 (li () "Mato Lešćan"
                   (ul ()
                     (li () (a ((href "https://youtu.be/FqlKX5mVBb4?si=PsJqAIfl0K9y566z")) "Intrada and Chorale \"Pjevaj hvale, Magdaleno\""))))
+                (li () "Chopin"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/lrNWs2OmzBQ?si=_ArYcWFK8Z3ruvXO")) "4 Ballades (by Sviatoslav Richter)"))))
                 (li () "Jean-Sébastien Bach"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/2kHXLd-aqpM?si=kEYpkUWsWUlibMan")) "Concert by Sviatoslav Richter"))
+                    (li () (a ((href "https://youtu.be/bqqPc0OnONk?si=zoKNWZHrVV-uEAdo")) "Prelude and Fugue: No. 12 in F Minor, BWV 857"))
                     (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Passacaglia BWV 582"))
+                    (li () (a ((href "https://youtu.be/2CxzjTJke-k?si=KAVn6ihvH8Tilxq0")) "Passacaglia (by Xaver Varnus)"))
                     (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Chorale Prelude \"Erbarm dich mein, o Herre Gott\", BWV 721"))
                     (li () (a ((href "https://youtu.be/Ie52xH8V2L4?si=SFKiEaV_1UvJEene")) "Passacaglia and Fugue in C minor BWV 582"))
                     (li () (a ((href "https://youtu.be/bZFOhkGGr8A?si=qyOrgN-BHE6MaSkI")) "Violin Concerto in D minor, BWV 1052R"))
@@ -106,6 +132,12 @@
                 (li () "Dmitri Dmitriyevich Shostakovich"
                   (ul ()
                     (li () (a ((href "https://youtu.be/mmCnQDUSO4I?si=Ittw0xMJNAWpZZB6")) "Waltz No. 2, Op. 99a"))))))))
+        (li () "Patriotic"
+          (ul ()
+            (li () "French"
+              (ul ()
+                (li () (a ((href "https://youtu.be/5fISOW2VeNU?si=ND2-8lvQoIT8mXsD")) "Chef de bataillon Segretain"))
+                (li () (a ((href "https://youtu.be/awQIOSm97Jo?si=TtTQGLaoQLZqZymJ")) "Chant de la Promotion Général et Sous-Lieutenant de Castelnau"))))))
         (li () "Jazz"
           (ul ()
             (li () "Louis Armstrong"
@@ -165,6 +197,8 @@
           (ul ()
             (li () "La Fève"
               (ul ()
+                (li () (a ((href "https://youtu.be/ApejFByU0Fk?si=mqFXY_bg_oXi_a_M")) "MA CONFIANCE"))
+                (li () (a ((href "https://youtu.be/VpCTSchos1Y?si=gsyIJUBYxsZgdYig")) "JDID"))
                 (li () (a ((href "https://www.youtube.com/watch?v=kzs9GzCSeGE")) "LA PESTE"))
                 (li () (a ((href "https://www.youtube.com/watch?v=LSrVmi91sGY")) "POLI"))
                 (li () (a ((href "https://www.youtube.com/watch?v=FjYLTaFkakQ")) "SAMESHIT"))

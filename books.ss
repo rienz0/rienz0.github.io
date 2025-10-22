@@ -24,7 +24,7 @@
                 (li () "Oblomov")))
             (li () "Jules Verne"
               (ul ()
-                (li () "Vingt mille lieues sous les mers ~")
+                (li () "Vingt mille lieues sous les mers *")
                 (li () "Paris au XXe siècle")))
             (li () "Georges Sand"
               (ul ()
@@ -55,11 +55,14 @@
                 (li () "Madame Bovary")))
             (li () "Rabelais"
               (ul ()
-                (li () "Pantagruel")))
-            (li () "Homer"
+                (li () "Pantagruel *")))
+            (li () "Homère"
               (ul ()
-                (li () "L'Iliade")
+                (li () "L'Iliade ~")
                 (li () "L'Odyssée")))
+            (li () "Virgile"
+              (ul ()
+                (li () "L'Énéide")))
             (li () "Dostoevsky"
               (ul ()
                 (li () "Crime and Punishment ~")
@@ -107,6 +110,9 @@
                 (li () "La République")
                 (li () "Phaedrus")
                 (li () "Cratylus")))
+            (li () "Muhammad Naguib Attas"
+              (ul ()
+                (li () (a ((href "https://ibnughony.wordpress.com/wp-content/uploads/2015/02/prolegomena-to-the-metaphysics-of-islam-syed-muhammad-naquib-al-attas.pdf")) "Prolegomena to the Metaphysics of Islam"))))
             (li () "Thomas Hobbes"
               (ul ()
                 (li () "Léviathan ~")))
@@ -137,7 +143,8 @@
                 (li () "L'esprit d'Helvétius")))
             (li () "Rousseau"
               (ul ()
-                (li () "Émile ou De l'éducation")))
+                (li () "Émile ou De l'éducation")
+                (li () "Du contrat social")))
             (li () "Pessoa"
               (ul ()
                 (li () "Les 33 sonnets métaphysique")))
@@ -146,7 +153,7 @@
                 (li () "L'Art de la guerre *")))
             (li () "Camus"
               (ul ()
-                (li () "La peste de Camu")
+                (li () "La peste")
                 (li () "L'Étranger *"))))
         (li () "Religion"
           (ul ()
@@ -178,10 +185,6 @@
             (li () "Lucrèce"
               (ul ()
                 (li () "De Rerum Natura")))
-            (li () "Homer"
-              (ul ()
-                (li () "Iliad ~")
-                (li () "Odyssey")))
             (li () "Ronsard"
               (ul ()
                 (li () "Les amours ~")))
