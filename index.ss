@@ -60,7 +60,7 @@
        (li () (a ((href "./golalgo.html")) "Efficient Memory-Free Approach for Conway's Game of Life")))
       (br ())
       (pre ((class "footer")) 
-        "rienzzo at proton dot me |     Mail<br>@r1enzo | Telegram<br>" (a ((href "https://github.com/rienz0")) "github.com/rienz0") " |   GitHub<br>" (a ((href "https://x.com/rienzzzo")) "x.com/rienzzzo") " |  Twitter")
+        "rienzzo at proton dot me :     Mail<br>@r1enzo : Telegram<br>" (a ((href "https://github.com/rienz0")) "github.com/rienz0") " :   GitHub<br>" (a ((href "https://x.com/rienzzzo")) "x.com/rienzzzo") " :  Twitter")
       (pre ((class "geekcode")) 
         "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y"))))
 

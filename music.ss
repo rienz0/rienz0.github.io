@@ -136,6 +136,8 @@
           (ul ()
             (li () "French"
               (ul ()
+                (li () (a ((href "https://youtu.be/lYu3OeAUIqY?si=OJwL1g8MBEr34jDm")) "Prière à Saint Michel"))
+                (li () (a ((href "https://youtu.be/O_V_R5IAu1o?si=bG18QaxkL6IuSObs")) "Chant de la Promotion SLT Maurice Genevoix"))
                 (li () (a ((href "https://youtu.be/5fISOW2VeNU?si=ND2-8lvQoIT8mXsD")) "Chef de bataillon Segretain"))
                 (li () (a ((href "https://youtu.be/awQIOSm97Jo?si=TtTQGLaoQLZqZymJ")) "Chant de la Promotion Général et Sous-Lieutenant de Castelnau"))))))
         (li () "Jazz"
