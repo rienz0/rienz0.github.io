@@ -21,7 +21,7 @@
     .+;&&&;     .&                 ..:::Xxx;&&+      
         :& . .x+X+. &x            ;.x:;+;x+&&        
      :.: &     x & &&&&&&& + :         .:+;&         
-      + .& .    :$  <i class=\"x\">x</i>  &&&&&. :&&&&&&&&&&+&         
+      + .& .    :$  x  &&&&&. :&&&&&&&&&&+&         
        . $. .      &&&&&:     &&&x&&x;&&$X           
        & + +              .   &:+:.  X$X$            
        &:; :. .           .  :&. :;$&x.+             
@@ -57,7 +57,8 @@
       (ul ()
         (li () (a ((href "./music.html")) "What I am listening to"))
         (li () (a ((href "./films.html")) "Films I've watched and intend to watch"))
-        (li () (a ((href "./books.html")) "What I've read and intend to read")))
+        (li () (a ((href "./books.html")) "What I've read and intend to read"))
+        (li () (a ((href "./links.html")) "Relevant Links")))
       (h2 () "Papers")
       (ul ()
         (li () (a ((href "./papers/plc.pdf")) "Prolégomènes au λ-calcul"))

@@ -3,6 +3,7 @@
 (load "posts/template.ss")
 (load "posts/golalgo.ss")
 
+(load "links.ss")
 (load "films.ss")
 (load "music.ss")
 (load "books.ss")
