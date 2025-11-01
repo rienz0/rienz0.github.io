@@ -41,7 +41,8 @@
                     (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
                 (li () "Beethoven"
                   (ul ()
-                    (li () (a ((href "https://youtu.be/VHwoypAY52k?si=aY7gUDbaIbV4gavw")) "Sonate au Clair de Lune"))))
+                    (li () (a ((href "https://youtu.be/VHwoypAY52k?si=aY7gUDbaIbV4gavw")) "Moonlight sonata (by Daniel Barenboim) (1)"))
+                    (li () (a ((href "https://youtu.be/WKAbSu6-6Bc?si=xz-7YXwJd6uYVVY2")) "Moonlight sonata (by Daniel Barenboim) (2)"))))
                 (li () "Nicolai Medtner"
                   (ul ()
                     (li () (a ((href "https://youtu.be/QCDUfNFGC6E?si=8aB1QWZJkMet54lW")) "Piano Sonata in A Minor, Op. 38 No. 1 "Sonata-Reminiscenza" (by Sviatoslav Richter)"))))
@@ -57,13 +58,11 @@
                     (li () (a ((href "https://youtu.be/99XcIxbNyJI?si=ihOT1p_8mvb-Fi2f")) "Prière à Notre-Dame, Op. 25"))))
                 (li () "Franz Schubert"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/PXis0PtqdXw?si=asA6V_tlNnqe-0E1")) (i () "Serenade")))
                     (li () (a ((href "https://youtu.be/BzMo0qCklGg?si=DI8t4_MSFlxxDnIF")) "Ave Maria"))))
                 (li () "Franz Liszt"
                   (ul ()
                     (li () (a ((href "https://youtu.be/FZ651tNXp0Y?si=2y3SyeEbPjdHlVAH")) "No. 3 (Dream of Love) from " (i () "Liebesträume")))))
-                (li () "Xaver Varnus"
-                  (ul ()
-                    (li () (a ((href "https://youtu.be/wfVFMEo_K9I?si=YrJbjTo7mCLrxcj2")) "THE SHOW MUST GO ON"))))
                 (li () "Feike Asma"
                   (ul ()
                     (li () (a ((href "https://youtu.be/Pq246S32Am0?si=3kxlw563U-QLQ4bm")) "Wie maar de goede God laat zorgen"))))
@@ -78,6 +77,7 @@
                     (li () (a ((href "https://youtu.be/FqlKX5mVBb4?si=PsJqAIfl0K9y566z")) "Intrada and Chorale \"Pjevaj hvale, Magdaleno\""))))
                 (li () "Chopin"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/-gDinVAmtA0?si=MoY29N2a6hz2OtPO")) "Nocturnes"))
                     (li () (a ((href "https://youtu.be/lrNWs2OmzBQ?si=_ArYcWFK8Z3ruvXO")) "4 Ballades (by Sviatoslav Richter)"))))
                 (li () "Jean-Sébastien Bach"
                   (ul ()
@@ -91,7 +91,6 @@
                     (li () (a ((href "https://youtu.be/Q3-5144TaYg?si=R44hJIfBcAnBkZee")) "Violin Concerto No. 1 in A minor, BWV 1041"))
                     (li () (a ((href "https://youtu.be/0YhYfgmRNoA?si=SbYQrZpF-VD1loCR")) "Widor - Toccata from Symphony No. 5 in F minor, Op. 42"))
                     (li () (a ((href "https://youtu.be/jtj300j129k?si=0msjH-iWShRt3Ai0")) "Toccata in F major from Organ Symphony No. 5"))
-
                     (li () (a ((href "https://youtu.be/A5aAMIQmoDE?si=8Hd8mgdB9p5VqHxK")) "Toccata in G minor"))
                     (li () (a ((href "https://youtu.be/erXG9vnN-GI?si=zBeFO0qWNobtwwJC")) "Toccata and Fugue in D minor, BWV 565"))
                     (li () (a ((href "https://youtu.be/0WKrO4w3QuQ?si=3PY6DSy-JEmVfVNT")) "Orchestral Suite No. 3 in D major BWV 1068 II. Air"))
@@ -102,9 +101,13 @@
                   (ul ()
                     (li () (a ((href "https://youtu.be/k1-TrAvp_xs?si=qu5NuNTMzz09Q9pB")) "Lacrimosa"))
                     (li () (a ((href "https://www.youtube.com/watch?v=AeEwGQjIpe8")) "Sequentia"))
-                    (li () (a ((href "https://www.youtube.com/watch?v=qiMcXzfm9Mg")) "Requiem In D Minor, K 626"))))))
+                    (li () (a ((href "https://www.youtube.com/watch?v=qiMcXzfm9Mg")) "Requiem In D Minor, K 626"))
+                    (li () (a ((href "https://youtu.be/qknbWY_i_1A?si=0CnLojkyVYViT2OO")) "Piano Sonatas K282, K545, K310 (by Sviatoslav Richter)"))))))
             (li () "Romantic"
               (ul ()
+                (li () "Sergei Rachmaninoff"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/nFcuZK_Xu7c?si=-5QvjUGvAY9gjiai")) "Élégie in E-flat minor, Op. 3 No. 1"))))
                 (li () "Pyotr Ilyich Tchaikovsky"
                   (ul ()
                     (li () (a ((href "https://youtu.be/QxHkLdQy5f0?si=ugAbNwp2Jqh5Isgi")) "Waltz of the Flowers"))
@@ -115,6 +118,7 @@
                     (li () (a ((href "https://youtu.be/cKkDMiGUbUw?si=KUUoOjVztyWdZMKF")) "The Blue Danube Waltz"))))
                 (li () "Wagner"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/xhGmo6qE1dc?si=cgl8XoQgWoRN1TlN")) "Rienzi Overture"))
                     (li () (a ((href "https://youtu.be/SRmCEGHt-Qk?si=RRiF3ON9sAkmi7lL")) "Tannhäuser Overture"))))
                 (li () "Antonín Dvořák"
                   (ul ()
@@ -131,11 +135,23 @@
               (ul ()
                 (li () "Dmitri Dmitriyevich Shostakovich"
                   (ul ()
-                    (li () (a ((href "https://youtu.be/mmCnQDUSO4I?si=Ittw0xMJNAWpZZB6")) "Waltz No. 2, Op. 99a"))))))))
+                    (li () (a ((href "https://youtu.be/mmCnQDUSO4I?si=Ittw0xMJNAWpZZB6")) "Waltz No. 2, Op. 99a"))))))
+            (li () "Contemporary"
+              (ul ()
+                (li () "Xaver Varnus"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/wfVFMEo_K9I?si=YrJbjTo7mCLrxcj2")) "THE SHOW MUST GO ON"))))))
+            (li () "Haphazard"
+              (ul ()
+                (li () (a ((href "https://youtu.be/8K4ZwA2nQqI?si=gnL4TJ0c75b7rmfn")) "Chopin, Schumann, Debussy, Villa-Lobos (by Arthur Rubinstein)"))
+                (li () (a ((href "https://youtu.be/A-My2J99n38?si=FVfeHszhbrxO9OPe")) "Glenn Gould's Favorite Pianists"))
+                (li () (a ((href "https://youtu.be/VlyX60MmgYY?si=HD8tdnlAISrk7mKb")) "Arthur Rubinstein's Favorite Pianists"))
+                (li () (a ((href "https://youtu.be/-n56-yvOVUU?si=alUJCwZM4Boi8Yqf")) "Sviatoslav Richter's Favorite Pianists"))))))
         (li () "Patriotic"
           (ul ()
             (li () "French"
               (ul ()
+                (li () (a ((href "https://youtu.be/yLetOpwhaqA?si=o5aFJ3bplwi3jwDh")) "La complainte des Templiers"))
                 (li () (a ((href "https://youtu.be/lYu3OeAUIqY?si=OJwL1g8MBEr34jDm")) "Prière à Saint Michel"))
                 (li () (a ((href "https://youtu.be/O_V_R5IAu1o?si=bG18QaxkL6IuSObs")) "Chant de la Promotion SLT Maurice Genevoix"))
                 (li () (a ((href "https://youtu.be/5fISOW2VeNU?si=ND2-8lvQoIT8mXsD")) "Chef de bataillon Segretain"))

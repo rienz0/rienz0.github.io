@@ -180,6 +180,11 @@
             (li () "Ray Bradbury"
               (ul ()
                 (li () "451 fahrenheit")))))
+        (li () "Fiction"
+          (ul ()
+            (li () "Unknown"
+              (ul ()
+                (li () "Les Milles et une nuits (ألف ليلة وليلة)")))))
         (li () "Poetry"
           (ul ()
             (li () "Lucrèce"
@@ -198,6 +203,9 @@
                 (li () "Les Fleurs du mal ~")))))
         (li () "History"
           (ul ()
+            (li () "Napoléon Bonaparte"
+              (ul ()
+                (li () (a ((href "https://gallica.bnf.fr/ark:/12148/bpt6k6124322v.texteImage")) "Paroles et Faits remarquables de Napoléon"))))
             (li () "Karl Marx"
               (ul ()
                 (li () "Le 18 Brumaire de Louis Bonaparte")))
