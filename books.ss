@@ -112,7 +112,7 @@
                 (li () "Cratylus")))
             (li () "Muhammad Naguib Attas"
               (ul ()
-                (li () (a ((href "https://ibnughony.wordpress.com/wp-content/uploads/2015/02/prolegomena-to-the-metaphysics-of-islam-syed-muhammad-naquib-al-attas.pdf")) "Prolegomena to the Metaphysics of Islam"))))
+                (li () (a ((href "https://ibnughony.wordpress.com/wp-content/uploads/2015/02/prolegomena-to-the-metaphysics-of-islam-syed-muhammad-naquib-al-attas.pdf")) "Prolegomena to the Metaphysics of Islam ~"))))
             (li () "Thomas Hobbes"
               (ul ()
                 (li () "Léviathan ~")))
@@ -208,7 +208,7 @@
                 (li () (a ((href "https://gallica.bnf.fr/ark:/12148/bpt6k6124322v.texteImage")) "Paroles et Faits remarquables de Napoléon"))))
             (li () "Karl Marx"
               (ul ()
-                (li () "Le 18 Brumaire de Louis Bonaparte")))
+                (li () "Le 18 Brumaire de Louis Bonaparte ~")))
             (li () "Emmanuel de Las Cases"
               (ul ()
                 (li () "Le Mémorial de Sainte-Hélène")))
@@ -242,6 +242,9 @@
                 (li () "Le Misanthrope *")))))
         (li () "Biography"
           (ul ()
+            (li () "Ibn Isḥāq"
+              (ul ()
+                (li () (a ((href "https://www.justislam.co.uk/images/Ibn%20Ishaq%20-%20Sirat%20Rasul%20Allah.pdf")) "The Life of Muhammad"))))
             (li () "Jehanne d'Orliac"
               (ul ()
                 (li () "Anne de Beaujeu Roi de France")))

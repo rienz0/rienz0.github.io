@@ -151,6 +151,7 @@
           (ul ()
             (li () "French"
               (ul ()
+                (li () (a ((href "https://youtu.be/5dUicsIA9Kg?si=oMSoumXKHmQqUugn")) "Chant de la Promotion CES de Neuchèze"))
                 (li () (a ((href "https://youtu.be/yLetOpwhaqA?si=o5aFJ3bplwi3jwDh")) "La complainte des Templiers"))
                 (li () (a ((href "https://youtu.be/lYu3OeAUIqY?si=OJwL1g8MBEr34jDm")) "Prière à Saint Michel"))
                 (li () (a ((href "https://youtu.be/O_V_R5IAu1o?si=bG18QaxkL6IuSObs")) "Chant de la Promotion SLT Maurice Genevoix"))
