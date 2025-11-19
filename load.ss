@@ -2,6 +2,7 @@
 
 (load "posts/template.ss")
 (load "posts/golalgo.ss")
+(load "posts/krivine.ss")
 
 (load "links.ss")
 (load "films.ss")

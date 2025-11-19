@@ -41,6 +41,9 @@
                     (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
                 (li () "Beethoven"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/44a2kZ72RzY?si=VDSMa1TGFVYp59qZ")) "Piano Concerto No. 3"))
+                    (li () (a ((href "https://youtu.be/GUZuUcHFK0k?si=fZpHXj8z5BwDxTH6")) "Quasi una fantasia"))
+                    (li () (a ((href "https://youtu.be/dL0JLNt_3EE?si=SQ-J09NxZt3m9EvD")) "Waldstein Sonata (by Claudio Arrau)"))
                     (li () (a ((href "https://youtu.be/VHwoypAY52k?si=aY7gUDbaIbV4gavw")) "Moonlight sonata (by Daniel Barenboim) (1)"))
                     (li () (a ((href "https://youtu.be/WKAbSu6-6Bc?si=xz-7YXwJd6uYVVY2")) "Moonlight sonata (by Daniel Barenboim) (2)"))))
                 (li () "Nicolai Medtner"
@@ -143,6 +146,7 @@
                     (li () (a ((href "https://youtu.be/wfVFMEo_K9I?si=YrJbjTo7mCLrxcj2")) "THE SHOW MUST GO ON"))))))
             (li () "Haphazard"
               (ul ()
+                (li () (a ((href "https://youtu.be/LpyRHi2aIwY?si=uu6iMTlN65nxBQWP")) "Mozart, Chopin, Schubert, Liszt, Schumann, Moszkowski (by Horowitz)"))
                 (li () (a ((href "https://youtu.be/8K4ZwA2nQqI?si=gnL4TJ0c75b7rmfn")) "Chopin, Schumann, Debussy, Villa-Lobos (by Arthur Rubinstein)"))
                 (li () (a ((href "https://youtu.be/A-My2J99n38?si=FVfeHszhbrxO9OPe")) "Glenn Gould's Favorite Pianists"))
                 (li () (a ((href "https://youtu.be/VlyX60MmgYY?si=HD8tdnlAISrk7mKb")) "Arthur Rubinstein's Favorite Pianists"))

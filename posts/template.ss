@@ -6,5 +6,5 @@
     `(body ()
       (h1 () ,title)
       (p () ,date)
-      (hr ())
+      (br ())
       (div () ,@content))))

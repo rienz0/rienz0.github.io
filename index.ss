@@ -1,53 +1,47 @@
 (load "html.ss")
 
 (define me "                                         
-              ;  &X& &  :$                           
-             &&&&&.+;&:&  &&&&&&  $  X               
-             + &&&+X+X$x&&&+$&&&&&;;&&& &&&          
-         .&&&&:&.&;$$&x$X&$&&&&&X$&&&;;&&;&          
-             & X;&&$&$;X&&&&$$$$&&&$&&&;$X&:; x      
-       ; & &&&&X&.&&+.&&&$x$$$&++x$X$&&&&;$:& $&&    
-        ;&&&+$$X$X$X$&$x+$&;XX&&&&&&$&$&$&&&X+&&&    
-      ; X:$&$+$ x$X$X&+&&$;&$&+;X&&&&&X&&$X+X++X     
-      :x& &$x$&&;&&x::;&&x&xx;$&$:: &&$&&&X&&;$x$$+  
-       &X&x &X& &X :&;.  & & :&:+$X&&&X;&&+&X+&x&&   
-      :&&+&X$  & .   &x &:: &$x&&&&&&&X&&X$:+Xx+&+   
-      &$+ X;+X&:x  +.; ::  & . && && +&+:;x$&$& &:&  
-      &&&&&&x&X . .           & &    & . X;;&X&&X&&  
-      +&$$$&&&.              +    .  & :;.+.&$$&+&   
-       &&$X&.          . .       .   .  ::::&&&&&;   
-     X$X&&&     ..  .       .       . ::;:+x&&&&+    
-       . &&   ..                . .. ..::;x;&&+      
-    .+;&&&;     .&                 ..:::Xxx;&&+      
-        :& . .x+X+. &x            ;.x:;+;x+&&        
-     :.: &     x & &&&&&&& + :         .:+;&         
-      + .& .    :$  x  &&&&&. :&&&&&&&&&&+&         
-       . $. .      &&&&&:     &&&x&&x;&&$X           
-       & + +              .   &:+:.  X$X$            
-       &:; :. .           .  :&. :;$&x.+             
-        ;...:.     x    .    &&:..   .;&             
-         .. ..       ..  :   &&: .  ;x&              
-         ;.:.:..    . X&     ;    :+&$               
-          ; . . . .      &X+ &&+.:X&$                
-           +:.. . .:;.     &&&+;:X$&                 
-            x.::;;X.;;:&&&&&X;;;$&X                  
-            &$;. :+X&&&$;  .&;$$&                    
-               &&X.        &&&xXX                    
-         ;     .&&&.;.. .   ..$&                     
-        +       .$&&&&&&&&$&$X$                      
-         . . :   :x&$X$$$$XXX$&                      
-       ...    . ...:;X&&$$XxXX$&&                    
- :;وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًاXXX$.                  
-;X+;;. .:$   .:::;;;;:   .:;x+;;+;+Xx;               
-      X+ X:  .;;++++.  ;X;..:..   :;..:X++           
-          ::. +       +;.   ..  .. .:  .:;+X+;+;;;;:")
+                    ;+x++                      
+             xx+x+;+X$&&&&&&X;                   
+          :X$&$&&&&&&&&&&&$&$$$+                 
+         ;&&$&&&&&&&&&&&&&&&X$$$&;               
+        X$&$$$$&&&$&&&&&&$$&&$$$$&&              
+       x&$$&$$&&&&&&&$$$&&&$$&&$$$&&X            
+      x$&$$&&&&&&&&&&&&&&&&$&+X$$x&&$&           
+     x&&&$$$$&&&&;      xXxx&&X$X$XX&&&          
+    +&&$&$$&$X$;+         : $&$$$&$$&&&$         
+    &&&$$&$$$$++;           ;&&$$x&&&&&&&        
+   X&&&&&XX$$&:+             &$$&$X&&&&&&        
+   &&&&&$&x$x&               &$X&&+  &&&&        
+   &&&&&$:$&&&               &&$x$&$;X&X         
+   X&&&$++$$&X                  $&&&&X& x        
+   :&&&&&&&&&               &&      :$&          
+     $$&X$&&Xxx  x+      X& $&& x&$$;X           
+       $&$Xx;& $& ++&xx;;+ :  & &$  :            
+        & ;++X X&  ;x&   & :;x+ :   +            
+        x$x: +Xx:   +$;   ;          &           
+       :+xx :        X:              &           
+        +x$ :   +;X: X:   :;         &           
+          X+:        $     ;                     
+           &          +  ::                      
+           &x:::                    :            
+            &;:;    :X$$XXXxX     ::$            
+             &+;+:   ++ ;;::     ;X X            
+              $:XXx             X:               
+              &   x$;         $$                 
+              &x     $&$$$$&&:        $          
+             X$x:                                
+            $$X+;                        +       
+          XX$X                             $$&X  
+         X$$$$&                         ;&&&$$$$$
+      X$$$$$$$&&&&&&+                &&&&&&$$$$$$
+     X$$$$$$&$X$$$$&&&&&&&&&$    &&&&&$$$$$$$$$$X")
 
 (define p
   (preset
     "Rienzo"
     `(body ()
       (div ((class "me")) (pre () ,me))
-      (br ())
       (h1 () "~ Rienzo")
       (p () "Salute. Allow me to introduce myself : Rienzo, 18 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Spanish and classical Arabic, with a little background in Russian.")
       (p () "An aspiring polymath, my interests span a broad spectrum, ranging from history to meta-programming, encompassing linguistics, arithmetic, " (a ((href "./books.html")) "literature") " &mdash; and particularly philosophy &mdash; religion, computer science, chess, " (a ((href "./music.html")) "music") ", and politics.")
@@ -65,11 +59,14 @@
         (li () "As-Sabīl"))
       (h2 () "Posts")
       (ul ()
-       (li () (a ((href "./golalgo.html")) "Efficient Memory-Free Approach for Conway's Game of Life")))
+        (li () (a ((href "./krivine.html")) "Krivine Machine in Scheme"))
+        (li () (a ((href "./golalgo.html")) "Efficient Memory-Free Approach for Conway's Game of Life")))
       (br ())
       (pre ((class "footer")) 
         "rienzzo at proton dot me :     Mail<br>@r1enzo : Telegram<br>" (a ((href "https://github.com/rienz0")) "github.com/rienz0") " :   GitHub<br>" (a ((href "https://x.com/rienzzzo")) "x.com/rienzzzo") " :  Twitter")
       (pre ((class "geekcode")) 
-        "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y"))))
+        "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y")
+      (br ())
+      (center () "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلً"))))
 
 (write-html "index.html" p)
