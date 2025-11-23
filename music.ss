@@ -15,6 +15,7 @@
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
                 (li () "Antonio Vivaldi"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/9SE222v1eyM?si=GUUEEaOXorJmbkID")) "Summer on accordion by Alexandr Hrustevich"))
                     (li () (a ((href "https://youtu.be/ZPdk5GaIDjo?si=mZnSXy9GLi4iGT_P")) "Winter"))
                     (li () (a ((href "https://youtu.be/205VbtMOODA?si=NIZ7NJVODa1yiHVb")) "Winter (by Xaver Varnus)"))
                     (li () (a ((href "https://youtu.be/g65oWFMSoK0?si=MtrarOjsT9fVVegM")) "Summer"))
@@ -62,6 +63,7 @@
                 (li () "Franz Schubert"
                   (ul ()
                     (li () (a ((href "https://youtu.be/PXis0PtqdXw?si=asA6V_tlNnqe-0E1")) (i () "Serenade")))
+                    (li () (a ((href "https://youtu.be/Ig3VtmYqwY4?si=4HaekeneiGS7IqB3")) "Serenade (Organ Solo)"))
                     (li () (a ((href "https://youtu.be/BzMo0qCklGg?si=DI8t4_MSFlxxDnIF")) "Ave Maria"))))
                 (li () "Franz Liszt"
                   (ul ()
@@ -84,6 +86,7 @@
                     (li () (a ((href "https://youtu.be/lrNWs2OmzBQ?si=_ArYcWFK8Z3ruvXO")) "4 Ballades (by Sviatoslav Richter)"))))
                 (li () "Jean-Sébastien Bach"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/eDFFUIGoBUc?si=nr2BxsiWd9jdgla0")) "Toccata and Fugue in D minor on Accordion by Sergei Teleshev"))
                     (li () (a ((href "https://youtu.be/2kHXLd-aqpM?si=kEYpkUWsWUlibMan")) "Concert by Sviatoslav Richter"))
                     (li () (a ((href "https://youtu.be/bqqPc0OnONk?si=zoKNWZHrVV-uEAdo")) "Prelude and Fugue: No. 12 in F Minor, BWV 857"))
                     (li () (a ((href "https://youtu.be/AWgOK6OUQwA?si=KMxGe_z7QOpC4AMi")) "Passacaglia BWV 582"))
@@ -136,6 +139,9 @@
                     (li () (a ((href "https://youtu.be/wnacdOIoTBQ?si=BZT5HlK6dES-PbFV")) "Gymnopédies & Gnossiennes for solo piano"))))))
             (li () "20th-century"
               (ul ()
+                (li () "Viktor Fedorovich Gridin"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/aDlmGDVeIUw?si=dqqdKgFkts4gyfej")) "Цыганская рапсодия by Alexandr Hrustevich"))))
                 (li () "Dmitri Dmitriyevich Shostakovich"
                   (ul ()
                     (li () (a ((href "https://youtu.be/mmCnQDUSO4I?si=Ittw0xMJNAWpZZB6")) "Waltz No. 2, Op. 99a"))))))
@@ -146,6 +152,7 @@
                     (li () (a ((href "https://youtu.be/wfVFMEo_K9I?si=YrJbjTo7mCLrxcj2")) "THE SHOW MUST GO ON"))))))
             (li () "Haphazard"
               (ul ()
+                (li () (a ((href "https://youtu.be/XD4NibjcmSQ?si=h1rDU0yUrcWxCIj2")) "The Russian Accordion Champions 1986"))
                 (li () (a ((href "https://youtu.be/LpyRHi2aIwY?si=uu6iMTlN65nxBQWP")) "Mozart, Chopin, Schubert, Liszt, Schumann, Moszkowski (by Horowitz)"))
                 (li () (a ((href "https://youtu.be/8K4ZwA2nQqI?si=gnL4TJ0c75b7rmfn")) "Chopin, Schumann, Debussy, Villa-Lobos (by Arthur Rubinstein)"))
                 (li () (a ((href "https://youtu.be/A-My2J99n38?si=FVfeHszhbrxO9OPe")) "Glenn Gould's Favorite Pianists"))
