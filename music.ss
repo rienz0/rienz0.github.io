@@ -15,6 +15,12 @@
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
                 (li () "Antonio Vivaldi"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/1k_3YKm8lk0?si=Ye1Api1TwHi2R6Uw")) "La Folia (1)"))
+                    (li () (a ((href "https://youtu.be/w7PmWPAQP1g?si=B5mbNgz2Iu7DSL9u")) "La Folia (2) ") (i () "(By far my own favorite among them all.)"))
+                    (li () (a ((href "https://youtu.be/FpPjlLbti1o?si=ZarQ_owQ3eGC7erH")) "La Folia (3)"))
+                    (li () (a ((href "https://youtu.be/Yrr5RL6BAi4?si=xO9g_RsMU2IfgXwQ")) "La Folia (4)"))
+                    (li () (a ((href "https://youtu.be/C4m1KHjp03M?si=HQlJ8kJWbSv3x-NK")) "La Folia (5)"))
+                    (li () (a ((href "https://youtu.be/kPpaeW3DObU?si=5uXN5vXva8c0dmkc")) "La Folia (6)"))
                     (li () (a ((href "https://youtu.be/9SE222v1eyM?si=GUUEEaOXorJmbkID")) "Summer on accordion by Alexandr Hrustevich"))
                     (li () (a ((href "https://youtu.be/ZPdk5GaIDjo?si=mZnSXy9GLi4iGT_P")) "Winter"))
                     (li () (a ((href "https://youtu.be/205VbtMOODA?si=NIZ7NJVODa1yiHVb")) "Winter (by Xaver Varnus)"))
