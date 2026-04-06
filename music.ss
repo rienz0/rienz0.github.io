@@ -10,6 +10,9 @@
           (ul ()
             (li () "Baroque"
               (ul ()
+                (li () "George Frideric Handel"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/vJwqHkiQacI?si=VNpcRD0TLPNjOA-a")) "Arrival of the Queen of Sheba, HWV 68"))))
                 (li () "Johann Cristoph Pachelbel"
                   (ul ()
                     (li () (a ((href "https://www.youtube.com/watch?v=NlprozGcs80")) "Canon In D Major"))))
@@ -48,6 +51,14 @@
                     (li () (a ((href "https://youtu.be/15I4kSQ05-U?si=hSYn0hKDNjYfsg5i")) "Early Violin Concerto in D minor, RV 813, formerly RV Anh. 10"))))
                 (li () "Beethoven"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/cep8Ru4TL4k?si=4e7S0gju9EyJpi5u")) "Symphony No. 9, 4th movement"))
+                    (li () (a ((href "https://youtu.be/koqAdGcty3k?si=0p2Gf-RL9VgirGFE")) "Piano Sonata No. 30 (by Claudio Arrau)"))
+                    (li () (a ((href "https://youtu.be/_deujLjHAk0?si=5BHGV0KldzLd4M_G")) "Piano Sonata No. 8 in C minor, Op. 13"))
+                    (li () (a ((href "https://youtu.be/EAVnEWQlzyA?si=lay2dXXcx33IDgGa")) "Piano Sonata No. 23 "Appassionata" (Pollini)"))
+                    (li () (a ((href "https://youtu.be/MZ2J1eFM-Rs?si=vcZ9V7j1-IyN2EN-")) "Piano Sonata No. 23 in F minor, Op. 57"))
+                    (li () (a ((href "https://youtu.be/1uG3qrePEj0?si=mAIMfDoFrpGsajdK")) "Piano Sonata No. 8 in C minor, Op. 13"))
+                    (li () (a ((href "https://youtu.be/WGg9cE-ceso?si=A7itfLaZmsSSxONH")) "Piano Sonata No. 32 in C minor, Op. 111"))
+                    (li () (a ((href "https://youtu.be/ckjg-RJV-oM?si=kNTWnXxvJNF5lrQT")) "Piano Sonata No. 13 in E-flat major, Op. 27 No. 1"))
                     (li () (a ((href "https://youtu.be/44a2kZ72RzY?si=VDSMa1TGFVYp59qZ")) "Piano Concerto No. 3"))
                     (li () (a ((href "https://youtu.be/GUZuUcHFK0k?si=fZpHXj8z5BwDxTH6")) "Quasi una fantasia"))
                     (li () (a ((href "https://youtu.be/dL0JLNt_3EE?si=SQ-J09NxZt3m9EvD")) "Waldstein Sonata (by Claudio Arrau)"))
@@ -111,6 +122,13 @@
               (ul ()
                 (li () "Wolfgang Amadeus Mozart"
                   (ul ()
+                    (li () (a ((href "https://youtu.be/rNeirjA65Dk?si=agohzUD6HJ7mD8qm")) "Symphony No. 25 in G minor, K. 183 "))
+                    (li () (a ((href "https://youtu.be/FUT5hG8lgKQ?si=VCFTST8XvZBcKYjy")) "Piano Sonata No. 8 in C minor, Op. 13"))
+                    (li () (a ((href "https://youtu.be/aj6SuE5_TPg?si=hPuK6mRbEWforANT")) "Requiem in D minor, K. 626, Sequentia: Tuba mirum"))
+                    (li () (a ((href "https://youtu.be/w3uWUmZVmiA?si=XaPOaO9Prhz97C6r")) "Requiem in D minor, K. 626, Offertorium: Domine Jesu"))
+                    (li () (a ((href "https://youtu.be/WVySGOTLa5o?si=2hKFNC6L2RH9EkO0")) "Violin Concertos Nos. 1-5"))
+                    (li () (a ((href "https://youtu.be/pBGVfwOLU1w?si=yG6mtBWw7OL2wVKa")) "Requiem in D minor, K. 626"))
+                    (li () (a ((href "https://youtu.be/9IZ_4h6mx_U?si=1uG6c8F2WdKHMk4S")) "Requiem KV 626"))
                     (li () (a ((href "https://youtu.be/k1-TrAvp_xs?si=qu5NuNTMzz09Q9pB")) "Lacrimosa"))
                     (li () (a ((href "https://www.youtube.com/watch?v=AeEwGQjIpe8")) "Sequentia"))
                     (li () (a ((href "https://www.youtube.com/watch?v=qiMcXzfm9Mg")) "Requiem In D Minor, K 626"))
@@ -140,11 +158,17 @@
                     (li () (a ((href "https://youtu.be/3ZJwlDPWEkg?si=b7wgV9rYwQGIwrDy")) "Má vlast, JB 1:112: No. 2 \"Vltava\""))))))
             (li () "Modern"
               (ul ()
+                (li () "Georgy Sviridov"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/t1fUYnx0SRo?si=4Ysg59IHXHfNp2UR")) "Зорю бьют"))))
                 (li () "Éric Alfred Leslie Satie"
                   (ul ()
                     (li () (a ((href "https://youtu.be/wnacdOIoTBQ?si=BZT5HlK6dES-PbFV")) "Gymnopédies & Gnossiennes for solo piano"))))))
             (li () "20th-century"
               (ul ()
+                (li () "John Rutter"
+                  (ul ()
+                    (li () (a ((href "https://youtu.be/GfH5JzcDqXM?si=-VKapOCGjP_-jh3v")) "Bless the Lord, O my soul"))))
                 (li () "Viktor Fedorovich Gridin"
                   (ul ()
                     (li () (a ((href "https://youtu.be/aDlmGDVeIUw?si=dqqdKgFkts4gyfej")) "Цыганская рапсодия by Alexandr Hrustevich"))))
@@ -166,6 +190,9 @@
                 (li () (a ((href "https://youtu.be/-n56-yvOVUU?si=alUJCwZM4Boi8Yqf")) "Sviatoslav Richter's Favorite Pianists"))))))
         (li () "Patriotic"
           (ul ()
+            (li () "Russian"
+              (ul ()
+                (li () (a ((href "https://youtu.be/ZipLsfCDQ8M?si=buocJCCkPRQ5GI5q")) "Армия Моя"))))
             (li () "French"
               (ul ()
                 (li () (a ((href "https://youtu.be/5dUicsIA9Kg?si=oMSoumXKHmQqUugn")) "Chant de la Promotion CES de Neuchèze"))
@@ -216,7 +243,8 @@
                 (li () (a ((href "https://www.youtube.com/watch?v=fsLPj_BG3fg")) "Maybe"))))
             (li () "Albert Allick Bowlly"
               (ul ()
-                 (li () (a ((href "https://www.youtube.com/watch?v=33o4TJy1yQY")) "It's All Forgotten Now"))
+                (li () (a ((href "https://youtu.be/0goUuk_TZ44?si=QTwL8PlIGZVw2Rcc")) "1929 Ray Noble Orchestra with Al Bowlly - Teardrops / Sunny Days / Shout for Happiness / Harmony Heaven"))
+                (li () (a ((href "https://www.youtube.com/watch?v=33o4TJy1yQY")) "It's All Forgotten Now"))
                 (li () (a ((href "https://www.youtube.com/watch?v=SIpK7YE-vo0")) "Midnight, The Stars And You"))
                 (li () (a ((href "https://youtu.be/eskOIYE03e8?si=Q3WuZjet-FcfYsKI")) "Isle of Capri"))
                 (li () (a ((href "https://youtu.be/1rsLTELg904?si=HK2d9Hc_EzdV9Xw7")) "I've Got You Under My Skin"))
@@ -285,6 +313,11 @@
                 (li () (a ((href "https://www.youtube.com/watch?v=qXSkUl5rN_8")) "Kung Fu Margiela 2"))))
             (li () "Freeze Corleone"
               (ul ()
+                (li () (a ((href "https://youtu.be/Qrm_1xQEzfo?si=5z4AoZb__RP3WUz9")) "Sacrifice de Masse, Pt. 2"))
+                (li () (a ((href "https://youtu.be/uM0dQd9VUW4?si=00zZXj53TT5Mx5Q0")) "Desiigner"))
+                (li () (a ((href "https://youtu.be/HtJibkNpXZI?si=TycZD8_3R0QpjrwX")) "Bâton Rouge"))
+                (li () (a ((href "https://youtu.be/1mqSTOF5_nc?si=bLB20Z6lP7neixS2")) "Chen Laden"))
+                (li () (a ((href "https://youtu.be/oJ5PfRQB93o?si=BXdUatUOIu052EuN")) "Freeze Raël"))
                 (li () (a ((href "https://www.youtube.com/watch?v=mLH6chE9miQ")) "Voldemort"))
                 (li () (a ((href "https://www.youtube.com/watch?v=E7xFtjqNRZw")) "Rap catéchisme"))
                 (li () (a ((href "https://www.youtube.com/watch?v=ALk_MPJkoMM")) "Jeremy Lin"))

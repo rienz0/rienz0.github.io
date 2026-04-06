@@ -1,41 +1,39 @@
 (load "html.ss")
 
-(define me "                                         
-                    ;+x++                      
-             xx+x+;+X$&&&&&&X;                   
-          :X$&$&&&&&&&&&&&$&$$$+                 
-         ;&&$&&&&&&&&&&&&&&&X$$$&;               
-        X$&$$$$&&&$&&&&&&$$&&$$$$&&              
-       x&$$&$$&&&&&&&$$$&&&$$&&$$$&&X            
-      x$&$$&&&&&&&&&&&&&&&&$&+X$$x&&$&           
-     x&&&$$$$&&&&;      xXxx&&X$X$XX&&&          
-    +&&$&$$&$X$;+         : $&$$$&$$&&&$         
-    &&&$$&$$$$++;           ;&&$$x&&&&&&&        
-   X&&&&&XX$$&:+             &$$&$X&&&&&&        
-   &&&&&$&x$x&               &$X&&+  &&&&        
-   &&&&&$:$&&&               &&$x$&$;X&X         
-   X&&&$++$$&X                  $&&&&X& x        
-   :&&&&&&&&&               &&      :$&          
-     $$&X$&&Xxx  x+      X& $&& x&$$;X           
-       $&$Xx;& $& ++&xx;;+ :  & &$  :            
-        & ;++X X&  ;x&   & :;x+ :   +            
-        x$x: +Xx:   +$;   ;          &           
-       :+xx :        X:              &           
-        +x$ :   +;X: X:   :;         &           
-          X+:        $     ;                     
-           &          +  ::                      
-           &x:::                    :            
-            &;:;    :X$$XXXxX     ::$            
-             &+;+:   ++ ;;::     ;X X            
-              $:XXx             X:               
-              &   x$;         $$                 
-              &x     $&$$$$&&:        $          
-             X$x:                                
-            $$X+;                        +       
-          XX$X                             $$&X  
-         X$$$$&                         ;&&&$$$$$
-      X$$$$$$$&&&&&&+                &&&&&&$$$$$$
-     X$$$$$$&$X$$$$&&&&&&&&&$    &&&&&$$$$$$$$$$X")
+(define me "
+.............&.&..........................
+....................&&&&&&&...............
+...........&&&&&&&&&&&&&&&&&&&............
+.........&&&&&&&&&&&&&&&&&x&&&&...........
+.......&&&&&&&&&&&&&&&&&&&&&&+&&&.........
+....&.&&&&&&&&&&+;x;;;..::&X&&x&&&........
+...&.&&&$&&&xx:::;:::;++;..;;.x&&x&.......
+....&&&&&&:&:X;;;+;;;;;;;.$..&x&&&&.......
+....&&&&&.&&x:x:;+;;;;;;::&.....&&&&......
+....&&&&&&:x;+;X+;;;;+;+:...;....&&&;.....
+....&&&&&:+;+;;;;;;:;;::..........$&......
+...&&&&&:$;;;+x::....:;x&&&&;xxx..&&......
+...&&&&&.:&;::..;x&x......:&&:....&:......
+.....&&&.;:+&&&&&&$;+$.x&&:&;&&;..&.......
+.....:&&.;X&&..:.&X&xx.&&&&x:.....;$......
+.....&+&.:Xx$&&&&&x;+$...&&Xx:....&.......
+......x$&.;;:;:x;:+;+$;.....:;;:..&.......
+......&&..;+;;;:;;x;:;x..&x...............
+.......x&+:;;;:;:;Xx&X.&X.&;..............
+.........&X$;;;:+x;x&&&+.:.:..............
+...........$;;;+x&x.x:;x&X&x..............
+...........&$;;;:x$xxXxx..:x:.............
+............&X;;;+;;X&&&&&xx..............
+.............&+;;;;;::;:..................
+.;...........&xx+x+;x+::;;:.+:;...........
+..X..........&$xX$Xx;;;::x&:x:;...........
+...;..........++;x+Xxxxxx...:.:+..........
+...x.........&x;:;x+;;;;;:.+x$$...&&......
+...;:...&&&&...&X;:;;;:::;+&.....&&.&&....
+......&x$:x&....+&&$:;:x&&......$+&.x&$...
+....&::.:.&...:....&&&&&...:...&:$&:X.;&..
+...&..:$:.&:::..:...xx&&......&:.&...$..&.
+     ")
 
 (define p
   (preset
@@ -50,9 +48,9 @@
       (h2 () "Personal Interests")
       (ul ()
         (li () (a ((href "./music.html")) "What I am listening to"))
-        (li () (a ((href "./films.html")) "Films I've watched and intend to watch"))
+        (li () (a ((href "https://boxd.it/jrhTj")) "Letterboxd profile"))
         (li () (a ((href "./books.html")) "What I've read and intend to read"))
-        (li () (a ((href "./links.html")) "Relevant Links")))
+        (li () (a ((href "./links.html")) "Relevant links")))
       (h2 () "Papers")
       (ul ()
         (li () (a ((href "./papers/plc.pdf")) "Prolégomènes au λ-calcul"))
@@ -62,8 +60,14 @@
         (li () (a ((href "./krivine.html")) "Krivine Machine in Scheme"))
         (li () (a ((href "./golalgo.html")) "Efficient Memory-Free Approach for Conway's Game of Life")))
       (br ())
-      (pre ((class "footer")) 
-        "rienzzo at proton dot me" ":mail<br>" (a ((href "https://t.me/rienzzo")) "@rienzzo") " telegram<br>" (a ((href "https://github.com/rienz0")) "github.com/rienz0") "|" (a ((href "https://github.com/lokasku")) "github.com/lokasku") " gh<br>" (a ((href "https://x.com/rienzzzo")) "x.com/rienzzzo") " x")
+      (p ((class "footer"))
+        (a ((href "mailto:rienzzo@proton.me")) "mail")
+        " . "
+        (a ((href "https://github.com/rienz0")) "github/rienz0")
+        " . "
+        (a ((href "https://github.com/lokasku")) "github/lokasku")
+        " . "
+        (a ((href "https://x.com/rienzzzo")) "x/rienzzzo"))
       (pre ((class "geekcode")) 
         "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y")
       (br ())
