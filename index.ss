@@ -1,45 +1,48 @@
 (load "html.ss")
 
-(define me "
-                    &&&&&&&               
-           &&&&&&&&&&&&&&&&&&&            
-         &&&&&&&&&&&&&&&&&x&&&&           
-       &&&&&&&&&&&&&&&&&&&&&&+&&&         
-      &&&&&&&&&&+;x;;;  ::&X&&x&&&        
-     &&&$&&&xx:::;:::;++;  ;; x&&x&       
-    &&&&&&:&:X;;;+;;;;;;; $  &x&&&&       
-    &&&&& &&x:x:;+;;;;;;::&      &&&&     
-    &&&&&&:x;+;X+;;;;+;+:    ;    &&&;    
-    &&&&&:+;+;;;;;;:;;::          $&      
-   &&&&&:$;;;+x::    :;x&&&&;xxx  &&      
-   &&&&& :&;::  ;x&x      :&&:    &:      
-     &&& ;:+&&&&&&$;+$.x&&:&;&&;  &       
-     :&& ;X&&  : &X&xx &&&&x:     ;$      
-     &+& :Xx$&&&&&x;+$   &&Xx:    &       
-      x$& ;;:;:x;:+;+$;     :;;:  &       
-      &&  +;;;;:;;x;:;x  &x               
-       x&+:;;;:;:;Xx&X &X &;              
-         &X$;;;:+x;x&&&+  : :             
-           $;;;+x&x x:;x&X&x              
-           &$;;;:x$xxXxx  :x:             
-            &X;;;+;;X&&&&&xx              
-             &+;;;;;::;:                  
-             &xx+x+;x+::;;: :+:           
-             &$xX$Xx;;;::x&:x:;           
-              ++;x+Xxxxxx   : :+          
-             &x;:;x+;;;;;: +x$$   &&      
-        &&&&   &X;:;;;:::;+&     && &&    
-      &x$:x&    +&&$:;:x&&      $+& x&$   
-    &:: : &   :    &&&&&   :   &: $&:X ;& 
-   &  :$ :&:::  :   xx&&      &: &   $  & 
-     ")
+(define me "                                         
+                    ;+x++                      
+             xx+x+;+X$&&&&&&X;                   
+          :X$&$&&&&&&&&&&&$&$$$+                 
+         ;&&$&&&&&&&&&&&&&&&X$$$&;               
+        X$&$$$$&&&$&&&&&&$$&&$$$$&&              
+       x&$$&$$&&&&&&&$$$&&&$$&&$$$&&X            
+      x$&$$&&&&&&&&&&&&&&&&$&+X$$x&&$&           
+     x&&&$$$$&&&&;      xXxx&&X$X$XX&&&          
+    +&&$&$$&$X$;+         : $&$$$&$$&&&$         
+    &&&$$&$$$$++;           ;&&$$x&&&&&&&        
+   X&&&&&XX$$&:+             &$$&$X&&&&&&        
+   &&&&&$&x$x&               &$X&&+  &&&&        
+   &&&&&$:$&&&               &&$x$&$;X&X         
+   X&&&$++$$&X                  $&&&&X& x        
+   :&&&&&&&&&               &&      :$&          
+     $$&X$&&Xxx  x+      X& $&& x&$$;X           
+       $&$Xx;& $& ++&xx;;+ :  & &$  :            
+        & ;++X X&  ;x&   & :;x+ :   +            
+        x$x: +Xx:   +$;   ;          &           
+       :+xx :        X:              &           
+        +x$ :   +;X: X:   :;         &           
+          X+:        $     ;                     
+           &          +  ::                      
+           &x:::                    :            
+            &;:;    :X$$XXXxX     ::$            
+             &+;+:   ++ ;;::     ;X X            
+              $:XXx             X:               
+              &   x$;         $$                 
+              &x     $&$$$$&&:        $          
+             X$x:                                
+            $$X+;                        +       
+          XX$X                             $$&X  
+         X$$$$&                         ;&&&$$$$$
+      X$$$$$$$&&&&&&+                &&&&&&$$$$$$
+     X$$$$$$&$X$$$$&&&&&&&&&$    &&&&&$$$$$$$$$$X")
 
 (define p
   (preset
-    "Rienzo"
+    "Rienzi"
     `(body ()
       (div ((class "me")) (pre () ,me))
-      (h1 () "~ Rienzo")
+      (h1 () (i () "~ Rienzo"))
       (p () "Salute. Allow me to introduce myself : Rienzo, 18 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Spanish and classical Arabic, with a little background in Russian.")
       (p () "An aspiring polymath, my interests span a broad spectrum, ranging from history to meta-programming, encompassing linguistics, arithmetic, " (a ((href "./books.html")) "literature") " &mdash; and particularly philosophy &mdash; religion, computer science, chess, " (a ((href "./music.html")) "music") ", and politics.")
       (p () "This website functions as an intersection of selected works, archives, thoughts, and miscellaneous notes &mdash; with the aim of organizing and sustaining lines of thought over time.")
