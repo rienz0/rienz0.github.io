@@ -42,9 +42,9 @@
     "Rienzi"
     `(body ()
       (div ((class "me")) (pre () ,me))
-      (h1 () (i () "~ Rienzo"))
-      (p () "Salute. Allow me to introduce myself : Rienzo, 18 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Spanish and classical Arabic, with a little background in Russian.")
-      (p () "An aspiring polymath, my interests span a broad spectrum, ranging from history to meta-programming, encompassing linguistics, arithmetic, " (a ((href "./books.html")) "literature") " &mdash; and particularly philosophy &mdash; religion, computer science, chess, " (a ((href "./music.html")) "music") ", and politics.")
+      (h1 () "~ Rienzo")
+      (p () "Salute. Allow me to introduce myself : Rienzo, 19 y.o., studying in France in a scientific preparatory class. Being of Franco-Polish nationality, I speak French fluently and manage reasonably well in Polish. I also speak English, and am currently practicing Polish, Spanish and classical Arabic, with a little background in Russian.")
+      (p () "An aspiring polymath, my interests span a broad spectrum, ranging from history to meta-programming, encompassing linguistics, arithmetic, " (a ((href "./books.html")) "literature") " &mdash; and particularly philosophy &mdash; computer science, and (geo)politics.")
       (p () "This website functions as an intersection of selected works, archives, thoughts, and miscellaneous notes &mdash; with the aim of organizing and sustaining lines of thought over time.")
       (p () "This site was written in Lisp, made possible by the syntactic similarity between HTML markup and s-expressions, allowing me to write " (a ((href "./html.ss")) "a converter") ".")
       (h2 () "Personal Interests")
@@ -73,6 +73,6 @@
       (pre ((class "geekcode")) 
         "GAT/CS/L/M/MU/P d+ s: a--- C++ UL++ L+++ W++ PS-- Y++ !t R--- !tv b+++ e h* !r !y")
       (br ())
-      (center () "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلً"))))
+      (div ((class "quran")) "وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلً"))))
 
 (write-html "index.html" p)

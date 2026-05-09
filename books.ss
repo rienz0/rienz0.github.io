@@ -7,6 +7,9 @@
       (h1 () "Books")
       (p () "Hereafter, books I have read will be marked with an asterisk (*), those I am currently reading with a tilde (~), and the rest I intend to read.")
       (ul ()
+        (li () "Language"
+          (ul ()
+            (li () "Grammaire de l'arabe classique — Maurice Gaudefroy-Demombynes & Régis Blachère *")))
         (li () "Roman"
           (ul ()
             (li () "Alexandre Dumas"
@@ -19,19 +22,10 @@
               (ul ()
                 (li () "Phèdre *")
                 (li () "Andromaque ~")))
-            (li () "George Darien"
-              (ul ()
-                (li () "Le voleur")))
-            (li () "Ivan Gantcharov"
-              (ul ()
-                (li () "Oblomov")))
             (li () "Jules Verne"
               (ul ()
                 (li () "Vingt mille lieues sous les mers *")
                 (li () "Paris au XXe siècle")))
-            (li () "Georges Sand"
-              (ul ()
-                (li () "La Mare au Diable")))
             (li () "Molière"
               (ul ()
                 (li () "L'Avare")))
@@ -42,9 +36,6 @@
               (ul ()
                 (li () "Bel-Ami *")
                 (li () "Boule de Suif")))
-            (li () "Madame de Lafayette"
-              (ul ()
-                (li () "La Princesse de Clèves")))
             (li () "Kafka"
               (ul ()
                 (li () "Le Procès")))
@@ -53,9 +44,6 @@
                 (li () "Le Père Goriot")
                 (li () "Illusions perdues ~")
                 (li () "Le Colonel Chabert")))
-            (li () "Gustave Flaubert"
-              (ul ()
-                (li () "Madame Bovary")))
             (li () "Rabelais"
               (ul ()
                 (li () "Pantagruel *")))
@@ -66,7 +54,7 @@
             (li () "Virgile"
               (ul ()
                 (li () "L'Énéide")))
-            (li () "Dostoevsky"
+            (li () "Достоевский"
               (ul ()
                 (li () "Crime and Punishment ~")
                 (li () "Le Joueur")
@@ -83,12 +71,6 @@
               (ul ()
                 (li () "Le Hobbit ~")
                 (li () "Le Seigneur des Anneaux ~")))
-            (li () "Joseph Kessel"
-              (ul ()
-                (li () "Le Lion")))
-            (li () "Agatha Christie"
-              (ul ()
-                (li () "Meurtre en Mésopotamie")))
             (li () "Voltaire"
               (ul ()
                 (li () "Candide *")
@@ -98,12 +80,13 @@
             (li () "Karl Marx"
               (ul ()
                 (li () "Le Capital")
-                (li () "Manifeste du Parti Communiste *")))
-            (li () "La Bruyère"
-              (ul ()
-                (li () "Les Caractères")))))
+                (li () "Manifeste du Parti Communiste *")))))
         (li () "Philosophy"
           (ul ()
+            (li () "Machiavelli"
+              (ul ()
+                (li () "Le Prince *")
+                (li () "L'art de la guerre")))
             (li () "Sartre"
               (ul ()
                 (li () "Huis Clos")
@@ -147,10 +130,7 @@
             (li () "Rousseau"
               (ul ()
                 (li () "Émile ou De l'éducation")
-                (li () "Du contrat social")))
-            (li () "Pessoa"
-              (ul ()
-                (li () "Les 33 sonnets métaphysique")))
+                (li () "Du contrat social ~")))
             (li () "Sun Tzu"
               (ul ()
                 (li () "L'Art de la guerre *")))
@@ -163,9 +143,15 @@
             (li () "Nouveau Testament ~")
             (li () "Ancien Testament ~")
             (li () "Talmud")
-            (li () "Coran ~")
-            (li () "Tafsir")
-            (li () "Fiqh")))
+            (li () "Coran *")
+            (li () "L'Évangile")
+            (li () "Tafsir al-Jalalayn *")
+            (li () "Al-Ghazali"
+              (ul ()
+                (li () "Lettre au disciple (Ayyuhā al-Walad) ~")
+                (li () "Début de la guidance (Bidāyat al-Hidāyah ) *")))
+            (li () "Al-Maqasid — Al-Nawawi ~")
+            (li () "Rejecting Freedom and Progress — Javad Akbar ~")))
         (li () "Science Fiction"
           (ul ()
             (li () "Neal Stephenson"
@@ -179,10 +165,7 @@
                 (li () "L'Encyclopédie du savoir relatif et absolu")))
             (li () "Frank Herbert"
               (ul ()
-                (li () "Dune")))
-            (li () "Ray Bradbury"
-              (ul ()
-                (li () "451 fahrenheit")))))
+                (li () "Dune")))))
         (li () "Fiction"
           (ul ()
             (li () "Unknown"
@@ -215,18 +198,6 @@
             (li () "Emmanuel de Las Cases"
               (ul ()
                 (li () "Le Mémorial de Sainte-Hélène")))
-            (li () "Aulard"
-              (ul ()
-                (li () "Histoire de la révolution française")))
-            (li () "Lefrançais"
-              (ul ()
-                (li () "L'histoire de la commune")))
-            (li () "Cornelius Nepos"
-              (ul ()
-                (li () "Vies des Grands Capitaines")))
-            (li () "Aristote"
-              (ul ()
-                (li () "Constitution d'Athènes")))
             (li () "Tite-Live"
               (ul ()
                 (li () "Œuvres Complètes ~")))))
@@ -234,7 +205,8 @@
           (ul ()
             (li () "Montesquieu"
               (ul ()
-                (li () "Lettres Persanes")))))
+                (li () "Lettres Persanes")
+                (li () "De l'Esprit des Lois")))))
         (li () "Drama"
           (ul ()
             (li () "Beaumarchais"
@@ -257,6 +229,7 @@
             (li () "Stendhal"
               (ul ()
                 (li () "Napoléon *")))))
+        ()
         (li () "Computer Science"
           (ul ()
             (li () "Peter Seibel"
