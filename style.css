@@ -6,14 +6,6 @@ body {
   padding: 0 20px;
 }
 
-ul {
-  list-style: none;
-}
-
-ul li::before {
-  content: "` ";
-}
-
 .me, .geekcode {
     text-align: center;
 }
